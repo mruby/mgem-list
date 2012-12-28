@@ -1,0 +1,6 @@
+name: mruby-redis
+description: Redis is an open source, advanced key-value store
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-redis
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-redis.git
