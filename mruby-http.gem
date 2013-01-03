@@ -1,6 +1,0 @@
-name: mruby-http
-description: HTTP Parser
-author: mattn
-website: https://github.com/mattn/mruby-http
-protocol: git
-repository: https://github.com/mattn/mruby-http.git 

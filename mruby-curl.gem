@@ -1,6 +1,0 @@
-name: mruby-curl
-description: CURL HTTP Client
-author: mattn
-website: https://github.com/mattn/mruby-curl
-protocol: git
-repository: https://github.com/mattn/mruby-curl.git 

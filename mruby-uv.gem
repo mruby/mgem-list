@@ -1,6 +1,0 @@
-name: mruby-uv
-description: libuv interface
-author: mattn
-website: https://github.com/mattn/mruby-uv
-protocol: git
-repository: https://github.com/mattn/mruby-uv.git 

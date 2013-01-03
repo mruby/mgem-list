@@ -1,6 +1,0 @@
-name: mruby-sqlite3
-description: SQLite3 Database
-author: mattn
-website: https://github.com/mattn/mruby-sqlite3
-protocol: git
-repository: https://github.com/mattn/mruby-sqlite3.git 
