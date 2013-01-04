@@ -1,0 +1,6 @@
+name: mruby-redis
+description: redis client using hiredis
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-redis
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-redis.git

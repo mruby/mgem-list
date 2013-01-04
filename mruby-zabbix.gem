@@ -1,0 +1,6 @@
+name: mruby-zabbix
+description: zabbix 2.0 API client class
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-zabbix
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-zabbix.git

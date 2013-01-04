@@ -1,0 +1,6 @@
+name: mruby-simplehttp
+description: Simple http client
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-simplehttp
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-simplehttp.git
