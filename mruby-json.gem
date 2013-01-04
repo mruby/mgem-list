@@ -1,0 +1,6 @@
+name: mruby-json
+description: JavaScript Object Notation
+author: mattn
+website: https://github.com/mattn/mruby-json
+protocol: git
+repository: https://github.com/mattn/mruby-json.git 

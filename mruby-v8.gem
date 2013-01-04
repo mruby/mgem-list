@@ -1,0 +1,6 @@
+name: mruby-v8
+description: V8 JavaScript Engine
+author: mattn
+website: https://github.com/mattn/mruby-v8
+protocol: git
+repository: https://github.com/mattn/mruby-v8.git

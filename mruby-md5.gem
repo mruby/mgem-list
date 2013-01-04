@@ -1,0 +1,6 @@
+name: mruby-md5
+description: MD5 Hash Alghorithm
+author: mattn
+website: https://github.com/mattn/mruby-md5
+protocol: git
+repository: https://github.com/mattn/mruby-md5.git
