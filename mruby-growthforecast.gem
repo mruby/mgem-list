@@ -1,0 +1,6 @@
+name: mruby-growthforecast
+description: GrowthForecast client class
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-growthforecast
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-growthforecast.git

@@ -1,0 +1,6 @@
+name: mruby-oauth
+description: OAuth class
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-oauth
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-oauth.git
