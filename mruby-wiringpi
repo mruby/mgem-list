@@ -1,5 +1,5 @@
 name: mruby-WiringPi
-description: Wiring function for the Raspberry Pi
+description: Binding for Wiring function of the Raspberry Pi
 author: Akira Yumiyama
 website: https://github.com/akiray03/mruby-WiringPi
 protocol: git
