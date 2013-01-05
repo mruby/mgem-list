@@ -1,0 +1,6 @@
+name: mruby-sinatic
+description: Sinatra like Web Framework 
+author: mattn
+website: https://github.com/mattn/mruby-sinatic
+protocol: git
+repository: https://github.com/mattn/mruby-sinatic.git
