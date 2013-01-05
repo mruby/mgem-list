@@ -1,0 +1,6 @@
+name: mruby-WiringPi
+description: Wiring function for the Raspberry Pi
+author: Akira Yumiyama
+website: https://github.com/akiray03/mruby-WiringPi
+protocol: git
+repository: https://github.com/akiray03/mruby-WiringPi.git
