@@ -1,0 +1,6 @@
+name: mruby-digest
+description: MD5, RMD160, SHA1, SHA256, SHA384, SHA512 and HMAC Digests.
+author: Internet Initiative Japan., Inc.
+website: https://github.com/iij/mruby-digest
+protocol: git
+repository: https://github.com/iij/mruby-digest.git
