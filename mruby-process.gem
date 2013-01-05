@@ -1,0 +1,6 @@
+name: mruby-process
+description: Process interface (waitpid, pid, kill, fork, ppid)
+author: Internet Initiative Japan., Inc.
+website: https://github.com/iij/mruby-process
+protocol: git
+repository: https://github.com/iij/mruby-process.git
