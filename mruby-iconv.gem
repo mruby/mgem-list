@@ -1,0 +1,6 @@
+name: mruby-iconv
+description: libiconv interface
+author: mattn
+website: https://github.com/mattn/mruby-iconv
+protocol: git
+repository: https://github.com/mattn/mruby-iconv.git
