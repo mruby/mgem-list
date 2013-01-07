@@ -1,0 +1,6 @@
+name: mruby-gntp
+description: Growl Notification Transfer Protocol
+author: mattn
+website: https://github.com/mattn/mruby-gntp
+protocol: git
+repository: https://github.com/mattn/mruby-gntp.git
