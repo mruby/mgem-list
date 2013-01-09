@@ -1,0 +1,6 @@
+name: mruby-sleep
+description: Sleep Module
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-sleep
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-sleep.git
