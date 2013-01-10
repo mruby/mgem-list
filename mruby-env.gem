@@ -1,0 +1,6 @@
+name: mruby-env
+description: ENV class implementation
+author: iij
+website: https://github.com/iij/mruby-env
+protocol: git
+repository: https://github.com/iij/mruby-env.git 
