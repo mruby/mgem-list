@@ -1,0 +1,6 @@
+name: mruby-msagent
+description: Microsoft Agent
+author: mattn
+website: https://github.com/mattn/mruby-msagent
+protocol: git
+repository: https://github.com/mattn/mruby-msagent.git 
