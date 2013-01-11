@@ -1,0 +1,6 @@
+name: mruby-eject
+description: Eject CD-ROM
+author: mattn
+website: https://github.com/mattn/mruby-eject
+protocol: git
+repository: https://github.com/mattn/mruby-eject.git 
