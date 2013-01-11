@@ -1,0 +1,6 @@
+name: mruby-core-ext
+description: MRuby Core Extensions
+author: skandhas 
+website: https://github.com/skandhas/mruby-core-ext 
+protocol: git
+repository: https://github.com/skandhas/mruby-core-ext.git 
