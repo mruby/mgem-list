@@ -1,0 +1,6 @@
+name: mruby-gles
+description: OpenGL ES 2.0 binding
+author: xxuejie
+website: https://github.com/xxuejie/mruby-gles
+protocol: git
+repository: https://github.com/xxuejie/mruby-gles.git
