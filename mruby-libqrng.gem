@@ -1,0 +1,6 @@
+name: mruby-libqrng
+description: libQRNG interface
+author: cremno
+website: https://github.com/cremno/mruby-libqrng
+protocol: git
+repository: https://github.com/cremno/mruby-libqrng.git
