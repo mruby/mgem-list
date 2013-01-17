@@ -1,0 +1,6 @@
+name: mruby-winapp
+description: Create non-console application for windows
+author: mattn
+website: https://github.com/mattn/mruby-winapp
+protocol: git
+repository: https://github.com/mattn/mruby-winapp.git 
