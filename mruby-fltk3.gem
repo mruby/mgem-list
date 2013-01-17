@@ -1,0 +1,6 @@
+name: mruby-fltk3
+description: FLTK3 GUI binding.
+author: mattn
+website: https://github.com/mattn/mruby-fltk3
+protocol: git
+repository: https://github.com/mattn/mruby-fltk3.git 
