@@ -1,0 +1,6 @@
+name: mruby-thread
+description: Thread Library
+author: mattn
+website: https://github.com/mattn/mruby-thread
+protocol: git
+repository: https://github.com/mattn/mruby-thread.git
