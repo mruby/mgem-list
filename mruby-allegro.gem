@@ -1,0 +1,6 @@
+name: mruby-allegro
+description: mruby binding to Allegro 5
+author: cremno
+website: https://github.com/cremno/mruby-allegro
+protocol: git
+repository: https://github.com/cremno/mruby-allegro.git
