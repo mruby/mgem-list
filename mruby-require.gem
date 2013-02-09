@@ -1,0 +1,6 @@
+name: mruby-require
+description: require implementation
+author: mattn
+website: https://github.com/mattn/mruby-require
+protocol: git
+repository: https://github.com/mattn/mruby-require.git 
