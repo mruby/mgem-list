@@ -1,0 +1,6 @@
+name: mruby-cfunc
+description: Interface to C functions based on libffi.
+author: Yuichiro MASUI
+website: https://github.com/mobiruby/mruby-cfunc
+protocol: git
+repository: https://github.com/mobiruby/mruby-cfunc.git
