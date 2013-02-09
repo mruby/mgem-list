@@ -1,0 +1,6 @@
+name: mruby-mecab
+description: Japanese morphological analyzer
+author: mattn
+website: https://github.com/mattn/mruby-mecab
+protocol: git
+repository: https://github.com/mattn/mruby-mecab.git 
