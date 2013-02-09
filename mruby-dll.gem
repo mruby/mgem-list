@@ -1,0 +1,6 @@
+name: mruby-dll
+description: DLL Windows Support
+author: mattn
+website: https://github.com/mattn/mruby-dll
+protocol: git
+repository: https://github.com/mattn/mruby-dll.git 
