@@ -1,0 +1,6 @@
+name: mruby-cocoa
+description: Interface to Cocoa based on Objective-C Runtime and mruby-cfunc.
+author: Yuichiro MASUI
+website: https://github.com/mobiruby/mruby-cocoa
+protocol: git
+repository: https://github.com/mobiruby/mruby-cocoa.git
