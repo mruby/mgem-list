@@ -1,0 +1,6 @@
+name: mruby-aws-s3
+description: Client library for Amazon's (AWS) S3 REST API
+author: iij
+website: https://github.com/iij/mruby-aws-s3
+protocol: git
+repository: https://github.com/iij/mruby-aws-s3.git 
