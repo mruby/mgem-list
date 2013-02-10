@@ -1,0 +1,6 @@
+name: mruby-syslog
+description: Syslog binding
+author: iij
+website: https://github.com/iij/mruby-syslog
+protocol: git
+repository: https://github.com/iij/mruby-syslog.git
