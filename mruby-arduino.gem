@@ -1,0 +1,6 @@
+name: mruby-arduino
+description: Arduino binding
+author: kyab
+website: https://github.com/kyab/mruby-arduino
+protocol: git
+repository: https://github.com/kyab/mruby-arduino.git
