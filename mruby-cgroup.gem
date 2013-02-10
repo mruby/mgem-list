@@ -1,0 +1,6 @@
+name: mruby-cgroup
+description: cgroup binding
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-cgroup
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-cgroup.git
