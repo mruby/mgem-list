@@ -1,0 +1,6 @@
+name: mruby-hs-regexp
+description: Light-weight Henry Spencer's Regular Expression
+author: Masamitsu MURASE
+website: https://github.com/masamitsu-murase/mruby-hs-regexp
+protocol: git
+repository: https://github.com/masamitsu-murase/mruby-hs-regexp.git
