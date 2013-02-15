@@ -1,0 +1,6 @@
+name: mruby-jpeg
+description: JPeg library
+author: Carson McDonald
+website: https://github.com/carsonmcdonald/mruby-jpeg
+protocol: git
+repository: https://github.com/carsonmcdonald/mruby-jpeg.git
