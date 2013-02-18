@@ -1,0 +1,6 @@
+name: mruby-onig-regexp
+description: Oniguruma Regular Expression
+author: mattn
+website: https://github.com/mattn/mruby-onig-regexp
+protocol: git
+repository: https://github.com/mattn/mruby-onig-regexp.git
