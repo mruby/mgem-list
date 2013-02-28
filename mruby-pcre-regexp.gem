@@ -1,0 +1,6 @@
+name: mruby-pcre-regexp
+description: PCRE - Perl Compatible Regular Expressions
+author: mattn
+website: https://github.com/mattn/mruby-pcre-regexp
+protocol: git
+repository: https://github.com/mattn/mruby-pcre-regexp.git
