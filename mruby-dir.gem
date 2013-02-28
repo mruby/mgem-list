@@ -1,0 +1,6 @@
+name: mruby-dir
+description: Dir: ::[] ::chdir ::chroot ::glob ::home #path #to_path #inspect
+author: Internet Initiative Japan., Inc.
+website: https://github.com/iij/mruby-dir
+protocol: git
+repository: https://github.com/iij/mruby-dir.git
