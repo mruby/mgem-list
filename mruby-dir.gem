@@ -1,5 +1,5 @@
 name: mruby-dir
-description: Dir: ::[] ::chdir ::chroot ::glob ::home #path #to_path #inspect
+description: Dir Class
 author: Internet Initiative Japan., Inc.
 website: https://github.com/iij/mruby-dir
 protocol: git
