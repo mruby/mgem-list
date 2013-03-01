@@ -1,0 +1,6 @@
+name: mruby-allocate
+description: Class allocate
+author: ppibburr
+website: https://github.com/ppibburr/mruby-allocate
+protocol: git
+repository: https://github.com/ppibburr/mruby-allocate.git
