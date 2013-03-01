@@ -1,0 +1,6 @@
+name: mruby-capability
+description: Linux Capability Binding
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-capability
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-capability.git
