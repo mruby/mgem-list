@@ -1,0 +1,6 @@
+name: mruby-string-enhancement
+description: String class enhancement (adding methods that not specified by ISO Ruby method)
+author: monaka and others
+website: https://github.com/monaka/mruby-string-enhancement
+protocol: git
+repository: https://github.com/monaka/mruby-string-enhancement.git
