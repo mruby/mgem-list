@@ -1,0 +1,7 @@
+name: mruby-markdown
+description: Markdown library
+author: Carson McDonald
+website: https://github.com/carsonmcdonald/mruby-markdown
+protocol: git
+repository: https://github.com/carsonmcdonald/mruby-markdown.git
+repooptions: --recursive
