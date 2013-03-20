@@ -1,0 +1,6 @@
+name: mruby-javascriptcore
+description: bindings to an from JavaScript for JavaScriptCore from WebKitGTK
+author: ppibburr
+website: https://github.com/ppibburr/mruby-javascriptcore
+protocol: git
+repository: https://github.com/ppibburr/mruby-javascriptcore.git
