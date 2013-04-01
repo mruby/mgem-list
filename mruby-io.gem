@@ -1,0 +1,6 @@
+name: mruby-io
+description: IO, File class implementation
+author: iij
+website: https://github.com/iij/mruby-io
+protocol: git
+repository: https://github.com/iij/mruby-io.git
