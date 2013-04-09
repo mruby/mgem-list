@@ -1,0 +1,6 @@
+name: mruby-backtrace
+description: Display backtrace
+author: crimsonwoods
+website: https://github.com/crimsonwoods/mruby-backtrace
+protocol: git
+repository: https://github.com/crimsonwoods/mruby-backtrace.git
