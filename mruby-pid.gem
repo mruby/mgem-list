@@ -1,0 +1,6 @@
+name: mruby-pid
+description: A PID algorithm library based on Temper
+author: Andrew Nordman
+website: https://github.com/cadwallion/mruby-pid
+protocol: git
+repository: https://github.com/cadwallion/mruby-pid.git
