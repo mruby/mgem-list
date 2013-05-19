@@ -1,0 +1,6 @@
+name: mruby-rubyffi-compat
+description: rubyffi compatibility layer on top of mruby-cfunc.
+author: Julien Ammous, ppibburr
+website: https://github.com/schmurfy/mruby-rubyffi-compat
+protocol: git
+repository: https://github.com/schmurfy/mruby-rubyffi-compat.git
