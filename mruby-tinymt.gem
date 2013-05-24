@@ -1,0 +1,6 @@
+name: mruby-tinymt
+description: random module using TinyMT
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-tinymt
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-tinymt.git
