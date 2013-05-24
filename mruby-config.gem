@@ -1,0 +1,6 @@
+name: mruby-config
+description: With mruby we continuously switching between Ruby and C code. mruby-config gives you an easy way to maintain configuration values on both sides.
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-config
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-config.git
