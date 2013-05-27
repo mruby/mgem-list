@@ -1,0 +1,6 @@
+name: mruby-sha2
+description: SHA2 Hash Algorithm
+author: h2so5
+website: https://github.com/h2so5/mruby-sha2
+protocol: git
+repository: https://github.com/h2so5/mruby-sha2.git
