@@ -1,0 +1,6 @@
+name: mruby-tinyxml2
+description: mruby bindings for TinyXML-2
+author: h2so5
+website: https://github.com/h2so5/mruby-tinyxml2
+protocol: git
+repository: https://github.com/h2so5/mruby-tinyxml2.git
