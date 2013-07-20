@@ -1,0 +1,6 @@
+name: mruby-fluent-logger
+description: A structured logger for Fluentd. 
+author: Kentaro Yoshida
+website: https://github.com/y-ken/fluent-logger-mruby
+protocol: git
+repository: https://github.com/y-ken/fluent-logger-mruby.git
