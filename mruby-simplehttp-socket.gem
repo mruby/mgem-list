@@ -1,0 +1,6 @@
+name: mruby-simplehttp-socket
+description: Simple http client using mruby-socket
+author: Kentaro Yoshida, Internet Initiative Japan Inc.
+website: https://github.com/y-ken/mruby-simplehttp-socket
+protocol: git
+repository: https://github.com/y-ken/mruby-simplehttp-socket.git
