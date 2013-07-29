@@ -1,0 +1,6 @@
+name: mruby-netlink
+description: libnetlink binding
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-netlink
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-netlink.git
