@@ -1,0 +1,6 @@
+name: mruby-userdata
+description: When shared mrb_state, you can share userdata objects between one Ruby code and the other.
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-userdata
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-userdata.git
