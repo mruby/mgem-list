@@ -1,0 +1,6 @@
+name: mruby-msgpack
+description: MessagePack for mruby.
+author: Jun Hiroe
+website: https://github.com/suzukaze/mruby-msgpack
+protocol: git
+repository: https://github.com/suzukaze/mruby-msgpack.git
