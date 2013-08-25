@@ -1,0 +1,6 @@
+name: mruby-leapmotion
+description: Providing wrapper classes for Leap Motion SDK.
+author: crimsonwoods
+website: https://github.com/crimsonwoods/mruby-leapmotion
+protocol: git
+repository: https://github.com/crimsonwoods/mruby-leapmotion.git
