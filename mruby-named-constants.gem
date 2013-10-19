@@ -1,0 +1,6 @@
+name: mruby-named-constants
+description: Allows dynamically defined constants of (Class|Module) to return the constant name when inspected
+author: ppibburr
+website: https://github.com/ppibburr/mruby-named-constants
+protocol: git
+repository: https://github.com/ppibburr/mruby-named-constants.git
