@@ -1,0 +1,6 @@
+name: mruby-gtk3
+description: Bindings to Gtk3. uses mruby-girffi
+author: ppibburr
+website: https://github.com/ppibburr/mruby-gtk3
+protocol: git
+repository: https://github.com/ppibburr/mruby-gtk3.git
