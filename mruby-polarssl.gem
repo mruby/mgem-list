@@ -1,0 +1,6 @@
+name: mruby-polarssl
+description: SSL and cryptography functionality from PolarSSL in your mruby programs 
+author: luisbebop
+website: https://github.com/luisbebop/mruby-polarssl
+protocol: git
+repository: https://github.com/luisbebop/mruby-polarssl.git
