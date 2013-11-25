@@ -1,0 +1,6 @@
+name: mruby-glib2
+description: Bindings to GLib 2.x. uses mruby-girffi
+author: ppibburr
+website: https://github.com/ppibburr/mruby-glib2
+protocol: git
+repository: https://github.com/ppibburr/mruby-glib2.git
