@@ -1,0 +1,6 @@
+name: mruby-webkit-1
+description: Bindings to WebKitGTK-1.x. uses mruby-girffi
+author: ppibburr
+website: https://github.com/ppibburr/mruby-webkit-1
+protocol: git
+repository: https://github.com/ppibburr/mruby-webkit-1.git

@@ -1,0 +1,6 @@
+name: mruby-gobject
+description: Bindings to GObject. uses mruby-girffi
+author: ppibburr
+website: https://github.com/ppibburr/mruby-gobject
+protocol: git
+repository: https://github.com/ppibburr/mruby-gobject.git
