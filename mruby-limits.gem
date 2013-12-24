@@ -1,0 +1,6 @@
+name: mruby-limits
+description: Const collection of limits.h
+author: ksss
+website: https://github.com/ksss/mruby-limits
+protocol: git
+repository: https://github.com/ksss/mruby-limits.git
