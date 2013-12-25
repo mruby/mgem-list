@@ -1,0 +1,6 @@
+name: mruby-mrbgem-template
+description: Generate mrbgem template
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-mrbgem-template
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-mrbgem-template.git
