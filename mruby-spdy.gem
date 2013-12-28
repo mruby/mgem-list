@@ -1,0 +1,6 @@
+name: mruby-spdy
+description: SPDY module for mruby
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-spdy
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-spdy.git
