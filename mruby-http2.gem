@@ -1,0 +1,6 @@
+name: mruby-http2
+description: HTTP2 module for mruby
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-http2
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-http2.git
