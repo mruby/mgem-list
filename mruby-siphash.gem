@@ -1,0 +1,6 @@
+name: mruby-siphash
+description: Message digest by SipHash
+author: ksss
+website: https://github.com/ksss/mruby-siphash
+protocol: git
+repository: https://github.com/ksss/mruby-siphash.git
