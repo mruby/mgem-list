@@ -1,0 +1,6 @@
+name: mruby-getoptlong
+description: An almost straight mruby port of Ruby's GetoptLong
+author: Sergio Rubio <rubiojr@frameos.org>
+website: https://github.com/rubiojr/mruby-getoptlong
+protocol: git
+repository: https://github.com/rubiojr/mruby-getoptlong
