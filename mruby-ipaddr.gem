@@ -1,0 +1,6 @@
+name: mruby-ipaddr
+description: IPAddr class
+author: iij
+website: https://github.com/iij/mruby-ipaddr
+protocol: git
+repository: https://github.com/iij/mruby-ipaddr.git
