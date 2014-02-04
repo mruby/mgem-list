@@ -1,0 +1,6 @@
+name: mruby-tempfile
+description: Tempfile class
+author: iij
+website: https://github.com/iij/mruby-tempfile
+protocol: git
+repository: https://github.com/iij/mruby-tempfile.git

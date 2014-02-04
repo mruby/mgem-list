@@ -1,0 +1,6 @@
+name: mruby-errno
+description: Errno module
+author: iij
+website: https://github.com/iij/mruby-errno
+protocol: git
+repository: https://github.com/iij/mruby-errno.git
