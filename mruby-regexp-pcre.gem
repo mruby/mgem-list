@@ -1,0 +1,6 @@
+name: mruby-regexp-pcre
+description: regular expression module utilizing PCRE library
+author: iij
+website: https://github.com/iij/mruby-regexp-pcre
+protocol: git
+repository: https://github.com/iij/mruby-regexp-pcre.git
