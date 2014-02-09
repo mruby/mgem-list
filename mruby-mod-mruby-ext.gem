@@ -1,0 +1,6 @@
+name: mruby-mod-mruby-ext
+description: Extended Apache class
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-mod-mruby-ext
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-mod-mruby-ext.git
