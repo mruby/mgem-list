@@ -3,4 +3,4 @@ description: mruby inter process share memory cache
 author: charlescui
 website: https://github.com/charlescui/mruby-cache
 protocol: git
-repository: git@github.com:charlescui/mruby-cache.git
+repository: https://github.com/charlescui/mruby-cache.git
