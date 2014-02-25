@@ -4,5 +4,5 @@ author: ppibburr
 website: https://github.com/ppibburr/mruby-gtk3
 protocol: git
 repository: https://github.com/ppibburr/mruby-gtk3.git
-dependencies
+dependencies:
 - mruby-girffi
