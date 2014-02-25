@@ -4,3 +4,5 @@ author: Julien Ammous
 website: https://github.com/schmurfy/host-stats
 protocol: git
 repository: https://github.com/schmurfy/host-stats.git
+dependencies:
+- mruby-rubyffi-compat

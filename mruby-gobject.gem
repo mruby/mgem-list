@@ -4,3 +4,5 @@ author: ppibburr
 website: https://github.com/ppibburr/mruby-gobject
 protocol: git
 repository: https://github.com/ppibburr/mruby-gobject.git
+dependencies:
+- mruby-girffi

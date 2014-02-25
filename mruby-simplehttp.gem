@@ -4,3 +4,6 @@ author: MATSUMOTO Ryosuke
 website: https://github.com/matsumoto-r/mruby-simplehttp
 protocol: git
 repository: https://github.com/matsumoto-r/mruby-simplehttp.git
+dependencies:
+- mruby-socket
+- mruby-polarssl

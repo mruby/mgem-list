@@ -4,3 +4,6 @@ author: MATSUMOTO Ryosuke
 website: https://github.com/matsumoto-r/mruby-mrbgem-template
 protocol: git
 repository: https://github.com/matsumoto-r/mruby-mrbgem-template.git
+dependencies:
+- mruby-io
+- mruby-dir

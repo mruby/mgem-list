@@ -4,3 +4,6 @@ author: luisbebop
 website: https://github.com/luisbebop/mruby-polarssl
 protocol: git
 repository: https://github.com/luisbebop/mruby-polarssl.git
+dependencies:
+- mruby-io
+- mruby-mtest

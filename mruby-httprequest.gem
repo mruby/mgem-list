@@ -4,3 +4,6 @@ author: MATSUMOTO Ryosuke
 website: https://github.com/matsumoto-r/mruby-httprequest
 protocol: git
 repository: https://github.com/matsumoto-r/mruby-httprequest.git
+dependencies:
+- mruby-simplehttp
+- mruby-http

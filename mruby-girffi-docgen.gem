@@ -4,3 +4,5 @@ author: ppibburr
 website: https://github.com/ppibburr/mruby-girffi-docgen
 protocol: git
 repository: https://github.com/ppibburr/mruby-girffi-docgen.git
+dependencies:
+- mruby-girffi

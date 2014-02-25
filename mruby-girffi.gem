@@ -4,3 +4,7 @@ author: ppibburr
 website: https://github.com/ppibburr/mruby-girffi
 protocol: git
 repository: https://github.com/ppibburr/mruby-girffi.git
+dependencies:
+- mruby-gobject-introspection
+- mruby-allocate
+- mruby-named-constants
