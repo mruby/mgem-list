@@ -1,0 +1,6 @@
+name: mruby-iijson
+description: JSON parser and generator
+author: iij
+website: https://github.com/iij/mruby-iijson
+protocol: git
+repository: https://github.com/iij/mruby-iijson.git
