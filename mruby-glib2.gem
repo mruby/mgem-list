@@ -4,3 +4,5 @@ author: ppibburr
 website: https://github.com/ppibburr/mruby-glib2
 protocol: git
 repository: https://github.com/ppibburr/mruby-glib2.git
+dependencies:
+- mruby-girffi

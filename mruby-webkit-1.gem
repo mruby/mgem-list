@@ -4,3 +4,5 @@ author: ppibburr
 website: https://github.com/ppibburr/mruby-webkit-1
 protocol: git
 repository: https://github.com/ppibburr/mruby-webkit-1.git
+dependencies:
+- mruby-gtk2

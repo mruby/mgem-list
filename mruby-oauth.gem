@@ -4,3 +4,10 @@ author: MATSUMOTO Ryosuke
 website: https://github.com/matsumoto-r/mruby-oauth
 protocol: git
 repository: https://github.com/matsumoto-r/mruby-oauth.git
+dependencies:
+- mruby-pack
+- mruby-digest
+- mruby-json
+- mruby-sleep
+- mruby-http
+- mruby-httprequest
