@@ -1,0 +1,6 @@
+name: mruby-ostruct
+description: OpenStruct binding in mruby
+author: ksss
+website: https://github.com/ksss/mruby-ostruct
+protocol: git
+repository: https://github.com/ksss/mruby-ostruct.git
