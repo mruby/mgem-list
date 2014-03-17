@@ -1,0 +1,6 @@
+name: mruby-ping
+description: ping hosts using ICMP or ARP packets.
+author: Julien Ammous
+website: https://github.com/schmurfy/mruby-ping
+protocol: git
+repository: https://github.com/schmurfy/mruby-ping
