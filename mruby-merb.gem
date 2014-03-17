@@ -1,5 +1,4 @@
 name: mruby-merb
-
 description: ERB-like mruby gem
 author: pbosetti
 website: https://github.com/pbosetti/mruby-merb
