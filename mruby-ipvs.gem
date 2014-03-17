@@ -1,0 +1,6 @@
+name: mruby-ipvs
+description: interface to IP Virtual Server (IPVS) for mruby
+author: YOSHIKAWA Ryota
+website: https://github.com/rrreeeyyy/mruby-ipvs
+protocol: git
+repository: https://github.com/rrreeeyyy/mruby-ipvs
