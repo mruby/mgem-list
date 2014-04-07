@@ -1,0 +1,6 @@
+name: mruby-leveldb
+description: mruby LevelDB binding
+author: Takeshi Watanabe
+website: https://github.com/take-cheeze/mruby-leveldb
+protocol: git
+repository: https://github.com/take-cheeze/mruby-leveldb.git
