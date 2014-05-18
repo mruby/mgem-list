@@ -1,0 +1,6 @@
+name: mruby-simplehttpserver
+description: SimpleHttpServer class
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-simplehttpserver
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-simplehttpserver.git
