@@ -1,0 +1,6 @@
+name: mruby-uname
+description: Uname class
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-uname
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-uname.git
