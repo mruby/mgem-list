@@ -1,0 +1,6 @@
+name: mruby-file-stat
+description: File::Stat class implementation
+author: ksss
+website: https://github.com/ksss/mruby-file-stat
+protocol: git
+repository: https://github.com/ksss/mruby-file-stat.git
