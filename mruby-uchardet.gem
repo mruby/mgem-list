@@ -1,0 +1,6 @@
+name: mruby-uchardet
+description: mruby binding of Mozilla's universal charset detector.
+author: Takeshi Watanabe
+website: https://github.com/take-cheeze/mruby-uchardet/
+protocol: git
+repository: https://github.com/take-cheeze/mruby-uchardet.git
