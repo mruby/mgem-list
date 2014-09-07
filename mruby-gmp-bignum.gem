@@ -1,0 +1,6 @@
+name: mruby-gmp-bignum
+description: GMP-based Bignum implementation for mruby
+author: Ray Chason
+website: https://github.com/chasonr/mruby-gmp-bignum
+protocol: git
+repository: https://github.com/chasonr/mruby-gmp-bignum.git
