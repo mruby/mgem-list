@@ -1,0 +1,6 @@
+name: mruby-inotify
+description: Inotify bindings
+author: FlavourSys Technology GmbH
+website: https://github.com/FlavourSys/mruby-inotify
+protocol: git
+repository: https://github.com/FlavourSys/mruby-inotify.git 
