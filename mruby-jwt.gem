@@ -1,0 +1,12 @@
+name: mruby-jwt
+description: A mruby implementation of JSON Web Token draft 06
+author: Naoki AINOYA
+website: https://github.com/prevs-io/mruby-jwt
+protocol: git
+repository: https://github.com/prevs-io/mruby-jwt.git
+dependencies:
+- mruby-io
+- mruby-pack
+- mruby-digest
+- mruby-iijson
+- mruby-onig-regexp
