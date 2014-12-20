@@ -1,0 +1,6 @@
+name: mruby-bin-scite-mruby
+description: A SciTE based text editor with mruby scripting extension
+author: Takashi Sawanaka
+website: https://github.com/sdottaka/mruby-bin-scite-mruby
+protocol: git
+repository: https://github.com/sdottaka/mruby-bin-scite-mruby.git
