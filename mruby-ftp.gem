@@ -1,0 +1,6 @@
+name: mruby-ftp
+description: FTP client library.
+author: Paolo Bosetti and Matteo Ragni, University of Trento
+website: https://github.com/UniTN-Mechatronics/mruby-ftp
+protocol: git
+repository: https://github.com/UniTN-Mechatronics/mruby-ftp.git
