@@ -1,0 +1,6 @@
+name: mruby-complex
+description: Complex numbers.
+author: Paolo Bosetti, University of Trento
+website: https://github.com/pbosetti/mruby-complex
+protocol: git
+repository: https://github.com/pbosetti/mruby-complex.git
