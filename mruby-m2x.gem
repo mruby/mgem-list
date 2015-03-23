@@ -1,0 +1,6 @@
+name: mruby-m2x
+description: Client library for AT&T’s M2X API
+author: AT&T M2X Team
+website: https://github.com/attm2x/m2x-mruby
+protocol: git
+repository: https://github.com/attm2x/m2x-mruby.git
