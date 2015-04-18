@@ -1,0 +1,6 @@
+name: mruby-chipmunk2d
+description: chipmunk2d bindings
+author: Corey Powell
+website: https://github.com/IceDragon200/mruby-chipmunk2d
+protocol: git
+repository: https://github.com/IceDragon200/mruby-chipmunk2d
