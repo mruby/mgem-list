@@ -1,0 +1,8 @@
+name: mruby-nanovg
+description: nanovg bindings
+author: Corey Powell
+website: https://github.com/IceDragon200/mruby-nanovg
+protocol: git
+repository: https://github.com/IceDragon200/mruby-nanovg
+dependencies:
+- mruby-gles
