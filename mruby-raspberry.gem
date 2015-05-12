@@ -1,0 +1,6 @@
+name: mruby-raspberry
+description: Wrapper for WiringPi library for accessing Raspberry Pi hardware.
+author: Paolo Bosetti, University of Trento
+website: https://github.com/UniTN-Mechatronics/mruby-raspberry
+protocol: git
+repository: https://github.com/UniTN-Mechatronics/mruby-raspberry.git
