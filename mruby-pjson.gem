@@ -1,0 +1,6 @@
+name: mruby-pjson
+description: JSON Parser written in pure mruby
+author: mattn
+website: https://github.com/mattn/mruby-pjson
+protocol: git
+repository: https://github.com/mattn/mruby-pjson.git 

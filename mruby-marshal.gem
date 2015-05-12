@@ -1,0 +1,8 @@
+name: mruby-marshal
+description: Marshal module for mruby
+author: Takeshi Watanabe
+website: https://github.com/take-cheeze/mruby-marshal
+protocol: git
+repository: https://github.com/take-cheeze/mruby-marshal.git
+dependencies:
+- mruby-onig-regexp

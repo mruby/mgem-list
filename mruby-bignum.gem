@@ -1,0 +1,6 @@
+name: mruby-bignum
+description: Self-contained Bignum implementation for mruby
+author: Ray Chason
+website: https://github.com/chasonr/mruby-bignum
+protocol: git
+repository: https://github.com/chasonr/mruby-bignum.git

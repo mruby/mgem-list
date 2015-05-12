@@ -1,0 +1,6 @@
+name: mruby-dir-glob
+description: File.fnmatch() & Dir.glob()
+author: Alexander Gromnitsky
+website: https://github.com/gromnitsky/mruby-dir-glob.git
+protocol: git
+repository: https://github.com/gromnitsky/mruby-dir-glob.git

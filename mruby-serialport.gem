@@ -1,0 +1,6 @@
+name: mruby-serialport
+description: Serialport support
+author: Monami-ya LLC, Japan
+website: https://github.com/monami-ya-mrb/mruby-serialport/
+protocol: git
+repository: https://github.com/monami-ya-mrb/mruby-serialport.git

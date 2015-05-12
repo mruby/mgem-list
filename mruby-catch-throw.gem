@@ -1,0 +1,6 @@
+name: mruby-catch-throw
+description: catch and throw for mruby.
+author: Corey Powell
+website: https://github.com/IceDragon200/mruby-catch-throw
+protocol: git
+repository: https://github.com/IceDragon200/mruby-catch-throw

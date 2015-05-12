@@ -1,0 +1,6 @@
+name: mruby-pure-regexp
+description: Pure mruby Regexp
+author: h2so5
+website: https://github.com/h2so5/mruby-pure-regexp
+protocol: git
+repository: https://github.com/h2so5/mruby-pure-regexp.git

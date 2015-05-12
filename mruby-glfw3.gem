@@ -1,0 +1,8 @@
+name: mruby-glfw3
+description: GLFW3 binding
+author: Takeshi Watanabe
+website: https://github.com/take-cheeze/mruby-glfw3
+protocol: git
+repository: https://github.com/take-cheeze/mruby-glfw3.git
+dependencies:
+- mruby-gles2

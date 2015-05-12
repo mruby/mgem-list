@@ -1,0 +1,6 @@
+name: mruby-simpletest
+description: SimpleTest class
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-simpletest
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-simpletest.git

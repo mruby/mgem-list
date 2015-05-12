@@ -1,0 +1,6 @@
+name: mruby-base58
+description: Base58 Encoder/Decoder
+author: h2so5
+website: https://github.com/h2so5/mruby-base58
+protocol: git
+repository: https://github.com/h2so5/mruby-base58.git

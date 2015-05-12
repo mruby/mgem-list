@@ -1,0 +1,6 @@
+name: mruby-clang-plugin
+description: clang plugin to check mruby API call mistakes.
+author: Takeshi Watanabe
+website: https://github.com/take-cheeze/mruby-clang-plugin
+protocol: git
+repository: https://github.com/take-cheeze/mruby-clang-plugin.git

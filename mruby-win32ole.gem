@@ -1,0 +1,6 @@
+name: mruby-win32ole
+description: A port of CRuby's WIN32OLE to mruby.
+author: Takashi Sawanaka
+website: https://github.com/sdottaka/mruby-win32ole
+protocol: git
+repository: https://github.com/sdottaka/mruby-win32ole.git
