@@ -1,0 +1,6 @@
+name: mruby-fsm
+description: Finite State Machine.
+author: Paolo Bosetti, University of Trento
+website: https://github.com/UniTN-Mechatronics/mruby-fsm
+protocol: git
+repository: https://github.com/UniTN-Mechatronics/mruby-fsm.git
