@@ -1,0 +1,6 @@
+name: mruby-virtualing
+description: creating jail environment, limitting resource and separating filesystem
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-virtualing
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-virtualing.git
