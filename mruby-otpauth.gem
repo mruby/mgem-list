@@ -1,0 +1,6 @@
+name: mruby-otpauth
+description: One time password class
+author: qtakamitsu
+website: https://github.com/qtkmz/mruby-otpauth
+protocol: git
+repository: https://github.com/qtkmz/mruby-otpauth.git 
