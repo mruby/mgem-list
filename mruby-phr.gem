@@ -1,0 +1,6 @@
+name: mruby-phr
+description: mruby bindings for picohttpparser
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-phr
+protocol: git
+repository: https://github.com/Asmod4n/mruby-phr.git
