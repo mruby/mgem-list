@@ -4,3 +4,6 @@ author: Hendrik Beskow
 website: https://github.com/Asmod4n/mruby-httpsclient
 protocol: git
 repository: https://github.com/Asmod4n/mruby-httpsclient.git
+dependencies:
+- mruby-tls
+- mruby-phr
