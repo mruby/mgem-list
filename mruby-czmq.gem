@@ -1,0 +1,6 @@
+name: mruby-czmq
+description: mruby bindings for czmq.
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-czmq
+protocol: git
+repository: https://github.com/Asmod4n/mruby-czmq.git
