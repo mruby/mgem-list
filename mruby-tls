@@ -1,0 +1,6 @@
+name: mruby-tls
+description: mruby bindings for libtls from libressl
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-tls
+protocol: git
+repository: https://github.com/Asmod4n/mruby-tls.git
