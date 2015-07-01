@@ -1,0 +1,6 @@
+name: mruby-msgpack
+description: A simple mruby wrapper for msgpack
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-simplemsgpack
+protocol: git
+repository: https://github.com/Asmod4n/mruby-simplemsgpack.git
