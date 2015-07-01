@@ -1,0 +1,6 @@
+name: mruby-getopts
+description: GNU getopt for mruby
+author: M&T Technology, Inc.
+website: https://github.com/mttech/mruby-getopts
+protocol: git
+repository: https://github.com/mttech/mruby-getopts
