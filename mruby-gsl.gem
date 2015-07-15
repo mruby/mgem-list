@@ -1,0 +1,6 @@
+name: mruby-gsl
+description: Wrapper to GNU Scientific Library (GSL).
+author: Paolo Bosetti, University of Trento
+website: https://github.com/UniTN-Mechatronics/mruby-gsl
+protocol: git
+repository: https://github.com/UniTN-Mechatronics/mruby-gsl.git
