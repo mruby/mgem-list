@@ -1,0 +1,6 @@
+name: mruby-wslay
+description: mruby wrapper for wslay
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-wslay
+protocol: git
+repository: https://github.com/Asmod4n/mruby-wslay
