@@ -1,0 +1,6 @@
+name: mruby-jvm
+description: Utility for invoking the JVM
+author: jkutner
+website: https://github.com/jkutner/mruby-jvm
+protocol: git
+repository: https://github.com/jkutner/mruby-jvm.git
