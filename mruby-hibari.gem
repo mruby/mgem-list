@@ -1,0 +1,6 @@
+name: mruby-hibari
+description: A Web application framework for Web servers that support mruby and Rack-based API
+author: Kentaro Kuribayashi
+website: https://github.com/kentaro/mruby-hibari
+protocol: git
+repository: https://github.com/kentaro/mruby-hibari.git
