@@ -1,5 +1,5 @@
 name: mruby-onig-regexp
-description: Oniguruma Regular Expression
+description: Onigumo Regular Expression
 author: mattn
 website: https://github.com/mattn/mruby-onig-regexp
 protocol: git
