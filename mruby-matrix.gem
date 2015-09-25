@@ -1,0 +1,6 @@
+name: mruby-matrix
+description: Matrix and vector library
+author: listrophy
+website: https://github.com/listrophy/mruby-matrix
+protocol: git
+repository: https://github.com/listrophy/mruby-matrix.git
