@@ -5,6 +5,6 @@ website: https://github.com/inokappa/mruby-datadog
 protocol: git
 repository: https://github.com/inokappa/mruby-datadog.git
 dependencies:
--mruby-httprequest
--mruby-json
--mruby-polarssl
+- mruby-httprequest
+- mruby-json
+- mruby-polarssl
