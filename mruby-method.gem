@@ -1,0 +1,6 @@
+name: mruby-method
+description: A implementetion of class Method and UnboundMethod for mruby
+author: ksss
+website: https://github.com/ksss/mruby-method
+protocol: git
+repository: https://github.com/ksss/mruby-method.git
