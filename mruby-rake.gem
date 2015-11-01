@@ -1,0 +1,6 @@
+name: mruby-rake
+description: rake for mruby
+author: ksss
+website: https://github.com/ksss/mruby-rake
+protocol: git
+repository: https://github.com/ksss/mruby-rake.git
