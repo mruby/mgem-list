@@ -1,0 +1,6 @@
+name: mruby-signal
+description: Signal trap and callback in mruby
+author: ksss
+website: https://github.com/ksss/mruby-signal
+protocol: git
+repository: https://github.com/ksss/mruby-signal.git
