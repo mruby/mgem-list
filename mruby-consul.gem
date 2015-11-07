@@ -1,0 +1,9 @@
+name: mruby-consul
+description: Consul HTTP API Client.
+author: Yohei Kawahara
+website: https://github.com/inokappa/mruby-consul
+protocol: git
+repository: https://github.com/inokappa/mruby-consul.git
+dependencies:
+- mruby-httprequest
+- mruby-json
