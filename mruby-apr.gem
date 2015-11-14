@@ -1,0 +1,6 @@
+name: mruby-apr
+description: Bindings to Apache's APR library, providing a portable runtime library for MRuby.
+author: Jared Breeden
+website: https://github.com/jbreeden/mruby-apr
+protocol: git
+repository: https://github.com/jbreeden/mruby-apr.git
