@@ -1,0 +1,6 @@
+name: mruby-sqlite
+description: (Another) SQLite3 mrbgem, aiming for compatability with MRI's sqlite3 gem.
+author: Jared Breeden
+website: https://github.com/jbreeden/mruby-sqlite
+protocol: git
+repository: https://github.com/jbreeden/mruby-sqlite.git

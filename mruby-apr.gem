@@ -1,0 +1,6 @@
+name: mruby-apr
+description: Cross platform standard library components à la MRI
+author: Jared Breeden
+website: https://github.com/jbreeden/mruby-apr
+protocol: git
+repository: https://github.com/jbreeden/mruby-apr.git
