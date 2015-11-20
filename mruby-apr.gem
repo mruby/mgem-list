@@ -1,5 +1,5 @@
 name: mruby-apr
-description: Bindings to Apache's APR library, providing a portable runtime library for MRuby.
+description: Cross platform standard library components à la MRI
 author: Jared Breeden
 website: https://github.com/jbreeden/mruby-apr
 protocol: git
