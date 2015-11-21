@@ -1,0 +1,6 @@
+name: mruby-forwardable
+description: forwardable module for mruby
+author: Masayoshi Takahashi
+website: https://github.com/takahashim/mruby-forwardable
+protocol: git
+repository: https://github.com/takahashim/mruby-forwardable.git
