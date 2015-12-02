@@ -1,0 +1,8 @@
+name: mruby-hiredis
+description: hiredis bindings for mruby.
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-hiredis
+protocol: git
+repository: https://github.com/Asmod4n/mruby-hiredis.git
+dependencies:
+- mruby-errno
