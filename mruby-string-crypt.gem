@@ -1,0 +1,6 @@
+name: mruby-string-crypt
+description: implementation of String#crypt
+author: mattn
+website: https://github.com/mattn/mruby-string-crypt
+protocol: git
+repository: https://github.com/mattn/mruby-string-crypt.git
