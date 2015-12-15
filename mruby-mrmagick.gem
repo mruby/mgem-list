@@ -1,0 +1,9 @@
+name: mruby-mrmagick
+description: ImageMagick binding for mruby.
+author: Junichi Kajiwara
+website: https://github.com/kjunichi/mruby-mrmagick
+protocol: git
+repository: https://github.com/kjunichi/mruby-mrmagick.git
+dependencies:
+- mruby-array-ext
+- mruby-print
