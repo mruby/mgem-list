@@ -1,0 +1,6 @@
+name: mruby-statemachine
+description: a tiny state machine for mruby
+author: Hendrik Beskow
+website: https://github.com/ascaridol/mruby-statemachine
+protocol: git
+repository: https://github.com/ascaridol/mruby-statemachine.git
