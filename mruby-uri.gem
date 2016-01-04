@@ -1,0 +1,6 @@
+name: mruby-uri
+description: URI parser for mruby
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-uri
+protocol: git
+repository: https://github.com/Asmod4n/mruby-uri.git
