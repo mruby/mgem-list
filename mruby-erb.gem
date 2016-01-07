@@ -1,0 +1,6 @@
+name: mruby-erb
+description: Port of CRuby's ERB
+author: Jared Breeden
+website: https://github.com/jbreeden/mruby-erb
+protocol: git
+repository: https://github.com/jbreeden/mruby-erb.git
