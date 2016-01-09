@@ -1,0 +1,6 @@
+name: mruby-lua
+description: Lua script engine
+author: Daisuke YAMAGUCHI
+website: https://github.com/dyama/mruby-lua
+protocol: git
+repository: https://github.com/dyama/mruby-lua.git
