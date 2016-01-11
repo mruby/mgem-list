@@ -1,0 +1,8 @@
+name: mruby-redis-ae
+description: mruby wrapper for the Redis Ae event loop.
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-redis-ae
+protocol: git
+repository: https://github.com/Asmod4n/mruby-redis-ae.git
+dependencies:
+- mruby-errno
