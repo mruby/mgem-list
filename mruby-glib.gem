@@ -1,0 +1,6 @@
+name: mruby-glib
+description: Cross platform standard library components à la GLib
+author: Jared Breeden
+website: https://github.com/jbreeden/mruby-glibl
+protocol: git
+repository: https://github.com/jbreeden/mruby-glib.git
