@@ -1,0 +1,6 @@
+name: mruby-zlib
+description: ZLib bindings for MRuby
+author: Jared Breeden
+website: https://github.com/jbreeden/mruby-zlib
+protocol: git
+repository: https://github.com/jbreeden/mruby-zlib.git
