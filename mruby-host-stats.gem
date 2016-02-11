@@ -1,4 +1,4 @@
-name: host-stats
+name: mruby-host-stats
 description: library to gather stats on running system (cpu, memory, ...).
 author: Julien Ammous
 website: https://github.com/schmurfy/host-stats
