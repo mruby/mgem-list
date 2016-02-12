@@ -4,3 +4,4 @@ author: YOSHIKAWA Ryota
 website: https://github.com/rrreeeyyy/mruby-ipvs
 protocol: git
 repository: https://github.com/rrreeeyyy/mruby-ipvs
+repooptions: --recursive
