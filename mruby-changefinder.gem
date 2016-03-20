@@ -1,0 +1,6 @@
+name: mruby-changefinder
+description: Detect change point via continuous outlier and smoothing
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-changefinder
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-changefinder.git
