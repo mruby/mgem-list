@@ -1,0 +1,6 @@
+name: mruby-hogun
+description: convenient library to build the command line interface.
+author: qtakamitsu
+website: https://github.com/qtkmz/mruby-hogun
+protocol: git
+repository: https://github.com/qtkmz/mruby-hogun.git
