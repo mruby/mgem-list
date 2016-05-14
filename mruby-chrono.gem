@@ -1,0 +1,6 @@
+name: mruby-chrony
+description: Steady and System clocks for mruby
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-chrono
+protocol: git
+repository: https://github.com/Asmod4n/mruby-chrono.git
