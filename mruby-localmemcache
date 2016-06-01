@@ -1,0 +1,6 @@
+name: mruby-localmemcache
+description: localmemcache binding
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumoto-r/mruby-localmemcache
+protocol: git
+repository: https://github.com/matsumoto-r/mruby-localmemcache.git
