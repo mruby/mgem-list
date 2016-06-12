@@ -1,0 +1,6 @@
+name: mruby-string-is-utf8
+description: checks if a string is valid utf8
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-string-is-utf8
+protocol: git
+repository: https://github.com/Asmod4n/mruby-string-is-utf8.git
