@@ -1,0 +1,9 @@
+name: mruby-linenoise
+description: linenoise for mruby, a line editing library akin to readline
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-linenoise
+protocol: git
+repository: https://github.com/Asmod4n/mruby-linenoise.git
+dependencies:
+- mruby-errno
+- mruby-struct
