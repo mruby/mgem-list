@@ -1,0 +1,6 @@
+name: mruby-argtable
+description: Argtable class
+author: ["Uchio Kondo", "Stewart Heitmann"]
+website: https://github.com/udzura/mruby-argtable
+protocol: git
+repository: https://github.com/udzura/mruby-argtable.git
