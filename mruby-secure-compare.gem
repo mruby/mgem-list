@@ -1,0 +1,6 @@
+name: mruby-secure-compare
+description: Secure String comparisons for mruby
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-secure-compare
+protocol: git
+repository: https://github.com/Asmod4n/mruby-secure-compare.git
