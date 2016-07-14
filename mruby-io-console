@@ -1,0 +1,6 @@
+name: mruby-io-console
+description: The implementation of io/console as CRuby.
+author: ksss
+website: https://github.com/ksss/mruby-io-console
+protocol: git
+repository: https://github.com/ksss/mruby-io-console.git
