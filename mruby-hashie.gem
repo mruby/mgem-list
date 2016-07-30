@@ -1,0 +1,6 @@
+name: mruby-hashie
+description: Collection of classes and mixins that makes hashes more powerful
+author: ['Michael Bleigh', 'Jerry Cheung', 'Takashi Kokubun']
+website: https://github.com/k0kubun/mruby-hashie
+protocol: git
+repository: https://github.com/k0kubun/mruby-hashie.git
