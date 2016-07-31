@@ -1,0 +1,6 @@
+name: mruby-shellwords
+description: Manipulates strings like the UNIX Bourne shell
+author: ['Wakou Aoyama', 'Akinori MUSHA', 'Takashi Kokubun']
+website: https://github.com/k0kubun/mruby-shellwords
+protocol: git
+repository: https://github.com/k0kubun/mruby-shellwords.git
