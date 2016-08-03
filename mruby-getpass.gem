@@ -1,0 +1,6 @@
+name: mruby-getpass
+description: Read passwords from the command prompt
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-getpass
+protocol: git
+repository: https://github.com/Asmod4n/mruby-getpass.git
