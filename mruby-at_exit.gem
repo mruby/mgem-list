@@ -1,0 +1,6 @@
+name: mruby-at_exit
+description: Kernel.at_exit method
+author: ksss
+website: https://github.com/ksss/mruby-at_exit
+protocol: git
+repository: https://github.com/ksss/mruby-at_exit.git
