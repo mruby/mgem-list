@@ -1,0 +1,6 @@
+name: mruby-romajify
+description: Japanese romanization library for mruby
+author: emsk
+website: https://github.com/emsk/mruby-romajify
+protocol: git
+repository: https://github.com/emsk/mruby-romajify.git
