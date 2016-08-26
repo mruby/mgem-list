@@ -1,0 +1,6 @@
+name: mruby-ansi-colors
+description: Extends String class to use ANSI color escape codes.
+author: Mav7
+website: https://github.com/Mav7/mruby-ansi-colors
+protocol: git
+repository: https://github.com/Mav7/mruby-ansi-colors.git
