@@ -1,0 +1,6 @@
+name: mruby-posix_ipc
+description: A mgem for access to POSIX IPC API
+author: Uchio Kondo
+website: https://github.com/udzura/mruby-posix_ipc
+protocol: git
+repository: https://github.com/udzura/mruby-posix_ipc.git

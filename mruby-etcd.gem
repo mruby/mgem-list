@@ -1,0 +1,6 @@
+name: mruby-etcd
+description: Simple etcd API wrapper
+author: Uchio Kondo
+website: https://github.com/udzura/mruby-etcd
+protocol: git
+repository: https://github.com/udzura/mruby-etcd.git
