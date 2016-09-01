@@ -1,6 +1,0 @@
-name: mruby-namespace
-description: A mgem to utilize linux namespaces
-author: Russel Hunter Yukawa / Uchio Kondo
-website: https://github.com/haconiwa/mruby-namespace
-protocol: git
-repository: https://github.com/haconiwa/mruby-namespace.git
