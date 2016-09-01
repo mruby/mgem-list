@@ -1,6 +1,0 @@
-name: mruby-exec
-description: Small exec() family wrapper
-author: Uchio Kondo
-website: https://github.com/haconiwa/mruby-exec
-protocol: git
-repository: https://github.com/haconiwa/mruby-exec.git

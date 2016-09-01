@@ -1,6 +1,0 @@
-name: mruby-mount
-description: Filesystem mount API for mruby
-author: Uchio Kondo
-website: https://github.com/haconiwa/mruby-mount
-protocol: git
-repository: https://github.com/haconiwa/mruby-mount.git
