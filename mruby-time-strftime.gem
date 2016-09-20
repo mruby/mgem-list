@@ -1,5 +1,5 @@
-name: mruby-time-stftime
-description: Time#stftime for mruby
+name: mruby-time-strftime
+description: Time#strftime for mruby
 author: monochromegane
 website: https://github.com/monochromegane/mruby-time-strftime
 protocol: git
