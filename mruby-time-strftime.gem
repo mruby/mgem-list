@@ -1,0 +1,6 @@
+name: mruby-time-stftime
+description: Time#stftime for mruby
+author: monochromegane
+website: https://github.com/monochromegane/mruby-time-strftime
+protocol: git
+repository: https://github.com/monochromegane/mruby-time-strftime.git
