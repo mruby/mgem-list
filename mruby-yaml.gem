@@ -1,6 +1,6 @@
 name: mruby-yaml
 description: YAML parser and emitter
 author: Andrew Belt
-website: https://github.com/AndrewBelt/mruby-yaml
+website: https://github.com/hone/mruby-yaml
 protocol: git
-repository: https://github.com/AndrewBelt/mruby-yaml.git
+repository: https://github.com/hone/mruby-yaml.git
