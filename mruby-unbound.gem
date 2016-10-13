@@ -1,6 +1,6 @@
 name: mruby-unbound
 description: mruby client for Unbound (libunbound)
 author: Kouichi Nakanishi
-website: https://github.com/KeizoBookman/mruby-unbound
+website: https://github.com/keizo042/mruby-unbound
 protocol: git
-repository: https://github.com/KeizoBookman/mruby-unbound.git
+repository: https://github.com/keizo042/mruby-unbound.git
