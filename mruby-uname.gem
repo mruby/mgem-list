@@ -1,6 +1,6 @@
 name: mruby-uname
 description: Uname class
 author: MATSUMOTO Ryosuke
-website: https://github.com/matsumoto-r/mruby-uname
+website: https://github.com/matsumotory/mruby-uname
 protocol: git
-repository: https://github.com/matsumoto-r/mruby-uname.git
+repository: https://github.com/matsumotory/mruby-uname.git

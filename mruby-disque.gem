@@ -1,6 +1,6 @@
 name: mruby-disque
 description: Disque client class
 author: MATSUMOTO Ryosuke
-website: https://github.com/matsumoto-r/mruby-disque
+website: https://github.com/matsumotory/mruby-disque
 protocol: git
-repository: https://github.com/matsumoto-r/mruby-disque.git
+repository: https://github.com/matsumotory/mruby-disque.git

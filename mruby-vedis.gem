@@ -1,6 +1,6 @@
 name: mruby-vedis
 description: vedis binding
 author: MATSUMOTO Ryosuke
-website: https://github.com/matsumoto-r/mruby-vedis
+website: https://github.com/matsumotory/mruby-vedis
 protocol: git
-repository: https://github.com/matsumoto-r/mruby-vedis.git
+repository: https://github.com/matsumotory/mruby-vedis.git

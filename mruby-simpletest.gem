@@ -1,6 +1,6 @@
 name: mruby-simpletest
 description: SimpleTest class
 author: MATSUMOTO Ryosuke
-website: https://github.com/matsumoto-r/mruby-simpletest
+website: https://github.com/matsumotory/mruby-simpletest
 protocol: git
-repository: https://github.com/matsumoto-r/mruby-simpletest.git
+repository: https://github.com/matsumotory/mruby-simpletest.git
