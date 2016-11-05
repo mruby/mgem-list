@@ -1,6 +1,6 @@
 name: mruby-memcached
 description: libmemcached bindings by mruby
 author: MATSUMOTO Ryosuke
-website: https://github.com/matsumoto-r/mruby-memcached
+website: https://github.com/matsumotory/mruby-memcached
 protocol: git
-repository: https://github.com/matsumoto-r/mruby-memcached.git
+repository: https://github.com/matsumotory/mruby-memcached.git

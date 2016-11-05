@@ -1,9 +1,9 @@
 name: mruby-simplehttp
 description: Simple http client
 author: MATSUMOTO Ryosuke
-website: https://github.com/matsumoto-r/mruby-simplehttp
+website: https://github.com/matsumotory/mruby-simplehttp
 protocol: git
-repository: https://github.com/matsumoto-r/mruby-simplehttp.git
+repository: https://github.com/matsumotory/mruby-simplehttp.git
 dependencies:
 - mruby-socket
 - mruby-polarssl

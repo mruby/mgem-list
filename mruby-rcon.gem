@@ -1,6 +1,6 @@
 name: mruby-rcon
 description: resource management mrbgem using cgroup
 author: MATSUMOTO Ryosuke
-website: https://github.com/matsumoto-r/mruby-rcon
+website: https://github.com/matsumotory/mruby-rcon
 protocol: git
-repository: https://github.com/matsumoto-r/mruby-rcon.git
+repository: https://github.com/matsumotory/mruby-rcon.git

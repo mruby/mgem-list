@@ -1,6 +1,6 @@
 name: mruby-eventfd
 description: Eventfd class
 author: MATSUMOTO Ryosuke
-website: https://github.com/matsumoto-r/mruby-eventfd
+website: https://github.com/matsumotory/mruby-eventfd
 protocol: git
-repository: https://github.com/matsumoto-r/mruby-eventfd.git
+repository: https://github.com/matsumotory/mruby-eventfd.git

@@ -1,6 +1,6 @@
 name: mruby-cross-compile-on-mac-osx
 description: Cross compile osx, linux or win32 binary of mruby on Mac OSX
 author: MATSUMOTO Ryosuke
-website: https://github.com/matsumoto-r/mruby-cross-compile-on-mac-osx
+website: https://github.com/matsumotory/mruby-cross-compile-on-mac-osx
 protocol: git
-repository: https://github.com/matsumoto-r/mruby-cross-compile-on-mac-osx.git
+repository: https://github.com/matsumotory/mruby-cross-compile-on-mac-osx.git
