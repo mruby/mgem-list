@@ -1,0 +1,6 @@
+name: mruby-specinfra
+description: Common layer for serverspec and itamae
+author: ['Gosuke Miyashita', 'Takashi Kokubun']
+website: https://github.com/k0kubun/mruby-specinfra
+protocol: git
+repository: https://github.com/k0kubun/mruby-specinfra.git
