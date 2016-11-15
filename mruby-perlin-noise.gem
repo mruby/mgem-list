@@ -1,0 +1,6 @@
+name: mruby-perlin-noise
+description: Perlin noise generator for mruby
+author: ['Junegunn Choi', 'Matthew Johnston', 'Tomasz Dabrowski']
+website: https://github.com/dabroz/mruby-perlin-noise
+protocol: git
+repository: https://github.com/dabroz/mruby-perlin-noise.git
