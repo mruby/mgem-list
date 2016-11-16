@@ -1,0 +1,6 @@
+name: mruby-float4
+description: small vector classes for mruby
+author: Tomasz Dabrowski
+website: https://github.com/dabroz/mruby-float4
+protocol: git
+repository: https://github.com/dabroz/mruby-float4.git
