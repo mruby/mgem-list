@@ -1,0 +1,6 @@
+name: mruby-k2hash
+description: mruby binding of yahoojapan/k2hash
+author: Ryo Okubo
+website: https://github.com/syucream/mruby-k2hash
+protocol: git
+repository: https://github.com/syucream/mruby-k2hash.git
