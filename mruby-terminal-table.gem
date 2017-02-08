@@ -1,4 +1,4 @@
-name: mruby-table-generator
+name: mruby-terminal-table
 description: A fast and simple, yet feature rich ASCII table generator
 author: katzer
 website: https://github.com/appPlant/mruby-terminal-table
