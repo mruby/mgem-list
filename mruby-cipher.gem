@@ -1,0 +1,6 @@
+name: mruby-cipher
+description: OpenSSL Cipher wrapper
+author: Seiei Miyagi
+website: https://github.com/hanachin/mruby-cipher
+protocol: git
+repository: https://github.com/hanachin/mruby-cipher.git
