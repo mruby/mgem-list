@@ -1,0 +1,6 @@
+name: mruby-opvault
+description: decrypt OPVault
+author: Seiei Miyagi
+website: https://github.com/hanachin/mruby-opvault
+protocol: git
+repository: https://github.com/hanachin/mruby-opvault.git
