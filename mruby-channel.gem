@@ -1,0 +1,6 @@
+name: mruby-channel
+description: named FIFO queue with multithreading 
+author: bggd
+website: https://github.com/bggd/mruby-channel
+protocol: git
+repository: https://github.com/bggd/mruby-channel.git
