@@ -1,0 +1,6 @@
+name: mruby-fast-remote-check
+description: FastRemoteCheck can perform port listening check at high speed using raw socket
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumotory/mruby-fast-remote-check
+protocol: git
+repository: https://github.com/matsumotory/mruby-fast-remote-check.git
