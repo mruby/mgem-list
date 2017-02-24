@@ -1,0 +1,6 @@
+name: mruby-timer-thread
+description: Timer Thread class
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumotory/mruby-timer-thread
+protocol: git
+repository: https://github.com/matsumotory/mruby-timer-thread.git
