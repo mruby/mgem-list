@@ -1,0 +1,6 @@
+name: mruby-signal-thread
+description: Multi thread Signal trap and callback in mruby
+author: pyama86
+website: https://github.com/pyama86/mruby-signal-thread
+protocol: git
+repository: https://github.com/pyama86/mruby-signal-thread.git
