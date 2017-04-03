@@ -1,0 +1,6 @@
+name: mruby-unicode-display_width
+description: Monospace Unicode character width
+author: katzer
+website: https://github.com/appPlant/mruby-unicode-display_width
+protocol: git
+repository: https://github.com/appPlant/mruby-unicode-display_width.git
