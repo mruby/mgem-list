@@ -1,0 +1,6 @@
+name: mruby-smallhttp
+description: Small http-client gem for mruby
+author: Nazarii Sheremet
+website: https://github.com/nsheremet/mruby-smallhttp
+protocol: git
+repository: https://github.com/nsheremet/mruby-smallhttp.git
