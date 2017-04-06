@@ -1,0 +1,6 @@
+name: mruby-tbot
+description: MRuby wrapper for Telegram's Bot API
+author: Nazarii Sheremet
+website: https://github.com/nsheremet/mruby-tbot
+protocol: git
+repository: https://github.com/nsheremet/mruby-tbot.git
