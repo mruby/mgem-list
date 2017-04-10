@@ -1,0 +1,6 @@
+name: mruby-getloadavg
+description: Linux getloadavg(3) module
+author: takumakume
+website: https://github.com/takumakume/mruby-getloadavg
+protocol: git
+repository: https://github.com/takumakume/mruby-getloadavg.git
