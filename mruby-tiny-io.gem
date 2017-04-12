@@ -1,0 +1,6 @@
+name: mruby-tiny-io
+description: Tiny IO library for mruby
+author: mimaki
+website: https://github.com/mimaki/mruby-tiny-io
+protocol: git
+repository: https://github.com/mimaki/mruby-tiny-io.git
