@@ -1,0 +1,8 @@
+name: mruby-poll
+description: Low level system poll for mruby
+author: Asmod4n
+website: https://github.com/Asmod4n/mruby-poll
+protocol: git
+repository: https://github.com/Asmod4n/mruby-poll.git
+dependencies:
+- mruby-errno
