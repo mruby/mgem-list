@@ -1,0 +1,6 @@
+name: mruby-seccomp
+description: libseccomp wrapper for mruby
+author: Uchio Kondo
+website: https://github.com/haconiwa/mruby-seccomp
+protocol: git
+repository: https://github.com/haconiwa/mruby-seccomp.git
