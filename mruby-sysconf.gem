@@ -1,0 +1,6 @@
+name: mruby-sysconf
+description: Sysconf class
+author: pyama86
+website: https://github.com/pyama86/mruby-sysconf
+protocol: git
+repository: https://github.com/pyama86/mruby-sysconf.git
