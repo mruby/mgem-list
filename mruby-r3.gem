@@ -1,0 +1,6 @@
+name: mruby-r3
+description: mruby binding for libr3 (path dispatching library)
+author: katzer
+website: https://github.com/katzer/mruby-r3
+protocol: git
+repository: https://github.com/katzer/mruby-r3.git
