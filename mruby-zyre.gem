@@ -1,0 +1,8 @@
+name: mruby-zyre
+description: Zyre - an open-source framework for proximity-based peer-to-peer applications
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-zyre
+protocol: git
+repository: https://github.com/Asmod4n/mruby-zyre.git
+dependencies:
+- mruby-errno
