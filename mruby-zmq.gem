@@ -1,9 +1,9 @@
 name: mruby-zmq
 description: mruby bindings for libzmq4
 author: Hendrik Beskow
-website: https://github.com/Asmod4n/mruby-zmq
+website: https://github.com/zeromq/mruby-zmq
 protocol: git
-repository: https://github.com/Asmod4n/mruby-zmq.git
+repository: https://github.com/zeromq/mruby-zmq.git
 dependencies:
 - mruby-errno
 - mruby-simplemsgpack
