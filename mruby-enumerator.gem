@@ -1,0 +1,6 @@
+name: mruby-enumerator
+description: Enumerator in mruby
+author: ksss <co000ri@gmail.com>
+website: https://github.com/ksss/mruby-enumerator
+protocol: git
+repository: https://github.com/ksss/mruby-enumerator.git
