@@ -1,0 +1,6 @@
+name: mruby-ipfilter
+description: IPFilter class
+author: tap1ra
+website: https://github.com/pepabo/mruby-ipfilter
+protocol: git
+repository: https://github.com/pepabo/mruby-ipfilter.git
