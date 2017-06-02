@@ -1,0 +1,6 @@
+name: mruby-bin-mruby-afl
+description: mruby interpreter in american fuzzy lop persistent mode
+author: Daniel Bovensiepen <daniel@bovensiepen.net>
+website: https://github.com/bovi/mruby-bin-mruby-afl
+protocol: git
+repository: https://github.com/bovi/mruby-bin-mruby-afl.git
