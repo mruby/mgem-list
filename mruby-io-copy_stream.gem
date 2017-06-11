@@ -1,0 +1,6 @@
+name: mruby-io-copy_stream
+description: IO.copy_stream method for mruby
+author: ksss
+website: https://github.com/ksss/mruby-io-copy_stream
+protocol: git
+repository: https://github.com/ksss/mruby-io-copy_stream.git
