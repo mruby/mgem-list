@@ -1,0 +1,6 @@
+name: mruby-proc-irep-ext
+description: irep extensions for Proc class
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-proc-irep-ext
+protocol: git
+repository: https://github.com/Asmod4n/mruby-proc-irep-ext.git
