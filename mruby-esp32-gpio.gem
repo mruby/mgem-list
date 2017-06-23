@@ -1,0 +1,6 @@
+name: mruby-esp32-gpio
+description: GPIO library for ESP32 MCU
+author: YAMAMOTO Masaya
+website: https://github.com/mruby-esp32/mruby-esp32-gpio
+protocol: git
+repository: https://github.com/mruby-esp32/mruby-esp32-gpio.git
