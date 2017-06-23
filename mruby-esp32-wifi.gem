@@ -1,0 +1,6 @@
+name: mruby-esp32-wifi
+description: WIFI library for ESP32 MCU
+author: Carson McDonald
+website: https://github.com/mruby-esp32/mruby-esp32-wifi
+protocol: git
+repository: https://github.com/mruby-esp32/mruby-esp32-wifi.git

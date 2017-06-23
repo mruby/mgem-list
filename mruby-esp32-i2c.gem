@@ -1,0 +1,6 @@
+name: mruby-esp32-i2c
+description: I2C library for ESP32 MCU
+author: YAMAMOTO Masaya
+website: https://github.com/mruby-esp32/mruby-esp32-i2c
+protocol: git
+repository: https://github.com/mruby-esp32/mruby-esp32-i2c.git
