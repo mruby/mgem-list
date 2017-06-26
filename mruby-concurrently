@@ -1,0 +1,6 @@
+name: mruby-concurrently
+description: A concurrency framework based on fibers
+author: Christopher Aue
+website: https://github.com/christopheraue/m-ruby-concurrently
+protocol: git
+repository: https://github.com/christopheraue/m-ruby-concurrently.git
