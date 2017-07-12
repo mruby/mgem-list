@@ -1,0 +1,6 @@
+name: mruby-strptime
+description: Strptime in mruby
+author: naritta
+website: https://github.com/naritta/mruby-strptime
+protocol: git
+repository: https://github.com/naritta/mruby-strptime.git
