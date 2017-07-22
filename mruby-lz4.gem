@@ -1,0 +1,6 @@
+name: mruby-lz4
+description: mruby bindings for lz4
+author: dearblue
+website: https://github.com/dearblue/mruby-lz4
+protocol: git
+repository: https://github.com/dearblue/mruby-lz4.git

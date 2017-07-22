@@ -1,0 +1,6 @@
+name: mruby-lzma
+description: mruby bindings for lzma
+author: dearblue
+website: https://github.com/dearblue/mruby-lzma
+protocol: git
+repository: https://github.com/dearblue/mruby-lzma.git
