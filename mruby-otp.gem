@@ -1,0 +1,6 @@
+name: mruby-otp
+description: Generate and verify OTPs (HOTP and TOTP)
+author: Emanuele Vicentini
+website: https://github.com/baldowl/mruby-otp
+protocol: git
+repository: https://github.com/baldowl/mruby-otp.git
