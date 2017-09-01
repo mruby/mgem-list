@@ -3,4 +3,4 @@ description: Implementation of the Ruby 2.4.1 Core Library Process for mruby.
 author: katzer
 website: https://github.com/appPlant/mruby-process
 protocol: git
-repository: https://github.com/appPlant/mruby-process.git
+repository: https://github.com/appPlant/mruby-process.git#windows
