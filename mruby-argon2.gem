@@ -1,0 +1,9 @@
+name: mruby-argon2
+description: The password hash Argon2, winner of PHC for mruby
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-argon2
+protocol: git
+repository: https://github.com/Asmod4n/mruby-argon2.git
+dependencies:
+- mruby-errno
+- mruby-sysrandom
