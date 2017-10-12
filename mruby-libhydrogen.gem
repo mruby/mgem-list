@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/Asmod4n/mruby-libhydrogen.git
 dependencies:
 - mruby-string-ext
+- mruby-errno
