@@ -1,0 +1,8 @@
+name: mruby-libhydrogen
+description: A lightweight, secure, easy-to-use crypto library for constrained environments.
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-libhydrogen
+protocol: git
+repository: https://github.com/Asmod4n/mruby-libhydrogen.git
+dependencies:
+- mruby-string-ext
