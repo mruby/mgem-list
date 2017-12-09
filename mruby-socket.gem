@@ -1,8 +1,0 @@
-name: mruby-socket
-description: Socket library for mruby
-author: iij
-website: https://github.com/iij/mruby-socket
-protocol: git
-repository: https://github.com/iij/mruby-socket.git
-dependencies:
-- mruby-io
