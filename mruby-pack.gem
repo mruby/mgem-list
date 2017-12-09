@@ -1,6 +1,0 @@
-name: mruby-pack
-description: Array#pack implementation
-author: Internet Initiative Japan., Inc.
-website: https://github.com/iij/mruby-pack
-protocol: git
-repository: https://github.com/iij/mruby-pack.git
