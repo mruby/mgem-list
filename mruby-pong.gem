@@ -1,0 +1,6 @@
+name: mruby-pong
+description: mruby-pong is a simple library for quickly creating web applications in MRuby
+author: Nazarii Sheremet
+website: https://nsheremet.github.io/mruby-pong
+protocol: git
+repository: https://github.com/nsheremet/mruby-pong.git
