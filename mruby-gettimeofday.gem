@@ -1,0 +1,6 @@
+name: mruby-gettimeofday
+description: A simple wrapper of `gettimeofday(2)` for mruby
+author: mame
+website: https://github.com/mame/mruby-gettimeofday
+protocol: git
+repository: https://github.com/mame/mruby-gettimeofday.git
