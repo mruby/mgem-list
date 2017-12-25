@@ -1,0 +1,8 @@
+name: mruby-postgresql
+description: Postgresql adapter for mruby
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-postgresql
+protocol: git
+repository: https://github.com/Asmod4n/mruby-postgresql.git
+dependencies:
+- mruby-errno
