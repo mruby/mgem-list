@@ -1,0 +1,6 @@
+name: mruby-fiberpool
+description: mruby port of fiberpool
+author: mattn
+website: https://github.com/mattn/mruby-fiberpool
+protocol: git
+repository: https://github.com/mattn/mruby-fiberpool.git
