@@ -4,3 +4,4 @@ author: Julien Ammous
 website: https://github.com/schmurfy/mruby-ping
 protocol: git
 repository: https://github.com/schmurfy/mruby-ping
+license: MIT

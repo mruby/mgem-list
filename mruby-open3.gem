@@ -4,3 +4,4 @@ author: Takashi Kokubun
 website: https://github.com/k0kubun/mruby-open3
 protocol: git
 repository: https://github.com/k0kubun/mruby-open3.git
+license: MIT

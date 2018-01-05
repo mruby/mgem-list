@@ -4,3 +4,4 @@ author: MATSUMOTO Ryosuke
 website: https://github.com/matsumotory/mruby-localmemcache
 protocol: git
 repository: https://github.com/matsumotory/mruby-localmemcache.git
+license: MIT

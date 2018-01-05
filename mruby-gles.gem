@@ -4,3 +4,4 @@ author: xxuejie
 website: https://github.com/xxuejie/mruby-gles
 protocol: git
 repository: https://github.com/xxuejie/mruby-gles.git
+license: MIT

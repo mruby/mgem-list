@@ -4,3 +4,4 @@ author: Nazarii Sheremet
 website: https://nsheremet.github.io/mruby-pong
 protocol: git
 repository: https://github.com/nsheremet/mruby-pong.git
+license: MPL-2.0

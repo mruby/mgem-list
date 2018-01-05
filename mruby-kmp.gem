@@ -4,3 +4,4 @@ author: santazhang
 website: https://github.com/santazhang/mruby-kmp
 protocol: git
 repository: https://github.com/santazhang/mruby-kmp.git
+license: MIT

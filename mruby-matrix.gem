@@ -4,3 +4,4 @@ author: listrophy
 website: https://github.com/listrophy/mruby-matrix
 protocol: git
 repository: https://github.com/listrophy/mruby-matrix.git
+license: Apache v2

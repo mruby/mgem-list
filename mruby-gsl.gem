@@ -4,3 +4,4 @@ author: Paolo Bosetti, University of Trento
 website: https://github.com/UniTN-Mechatronics/mruby-gsl
 protocol: git
 repository: https://github.com/UniTN-Mechatronics/mruby-gsl.git
+license: MIT

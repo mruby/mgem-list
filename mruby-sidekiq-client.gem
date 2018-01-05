@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/monochromegane/mruby-sidekiq-client.git
 dependencies:
 - mruby-secure-random
+license: MIT

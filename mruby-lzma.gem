@@ -4,3 +4,4 @@ author: dearblue
 website: https://github.com/dearblue/mruby-lzma
 protocol: git
 repository: https://github.com/dearblue/mruby-lzma.git
+license: BSD-2-Clause

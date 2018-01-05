@@ -7,3 +7,4 @@ repository: https://github.com/matsumotory/mruby-mrbgem-template.git
 dependencies:
 - mruby-io
 - mruby-dir
+license: MIT

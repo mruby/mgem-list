@@ -4,3 +4,4 @@ author: fastly
 website: https://github.com/fastly/mruby-optparse
 protocol: git
 repository: https://github.com/fastly/mruby-optparse.git
+license: MIT

@@ -4,3 +4,4 @@ author: dearblue
 website: https://github.com/dearblue/mruby-crc
 protocol: git
 repository: https://github.com/dearblue/mruby-crc.git
+license: BSD-2-Clause

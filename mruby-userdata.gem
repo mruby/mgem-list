@@ -4,3 +4,4 @@ author: MATSUMOTO Ryosuke
 website: https://github.com/matsumotory/mruby-userdata
 protocol: git
 repository: https://github.com/matsumotory/mruby-userdata.git
+license: MIT

@@ -4,3 +4,4 @@ author: Jared Breeden
 website: https://github.com/jbreeden/mruby-erb
 protocol: git
 repository: https://github.com/jbreeden/mruby-erb.git
+license: You can redistribute it and/or modify it under the same terms as Ruby

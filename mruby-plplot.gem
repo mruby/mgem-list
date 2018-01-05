@@ -4,3 +4,4 @@ author: Paolo Bosetti
 website: https://github.com/pbosetti/mruby-plplot
 protocol: git
 repository: https://github.com/pbosetti/mruby-plplot.git
+license: MIT

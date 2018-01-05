@@ -4,3 +4,4 @@ author: Sergio Rubio <rubiojr@frameos.org>
 website: https://github.com/rubiojr/mruby-getoptlong
 protocol: git
 repository: https://github.com/rubiojr/mruby-getoptlong
+license: MIT

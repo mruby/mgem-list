@@ -4,3 +4,4 @@ author: MATSUMOTO Ryosuke
 website: https://github.com/matsumotory/mruby-vedis
 protocol: git
 repository: https://github.com/matsumotory/mruby-vedis.git
+license: Sleepycat License

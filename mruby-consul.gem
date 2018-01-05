@@ -7,3 +7,4 @@ repository: https://github.com/inokappa/mruby-consul.git
 dependencies:
 - mruby-httprequest
 - mruby-json
+license: MIT

@@ -4,3 +4,4 @@ author: MATSUMOTO Ryosuke
 website: https://github.com/matsumotory/mruby-correlation
 protocol: git
 repository: https://github.com/matsumotory/mruby-correlation.git
+license: MIT

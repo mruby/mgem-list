@@ -4,3 +4,4 @@ author: Christopher Aue
 website: https://github.com/christopheraue/m-ruby-concurrently
 protocol: git
 repository: https://github.com/christopheraue/m-ruby-concurrently.git
+license: Apache-2.0

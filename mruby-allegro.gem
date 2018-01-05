@@ -4,3 +4,4 @@ author: cremno
 website: https://github.com/cremno/mruby-allegro
 protocol: git
 repository: https://github.com/cremno/mruby-allegro.git
+license: MIT

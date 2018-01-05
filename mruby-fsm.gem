@@ -4,3 +4,4 @@ author: Paolo Bosetti, University of Trento
 website: https://github.com/UniTN-Mechatronics/mruby-fsm
 protocol: git
 repository: https://github.com/UniTN-Mechatronics/mruby-fsm.git
+license: GPL 2.0

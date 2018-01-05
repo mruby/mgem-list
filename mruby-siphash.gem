@@ -4,3 +4,4 @@ author: ksss
 website: https://github.com/ksss/mruby-siphash
 protocol: git
 repository: https://github.com/ksss/mruby-siphash.git
+license: MIT

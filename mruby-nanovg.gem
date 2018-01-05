@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/IceDragon200/mruby-nanovg
 dependencies:
 - mruby-gles
+license: MIT

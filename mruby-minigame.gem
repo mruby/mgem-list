@@ -4,3 +4,4 @@ author: bggd
 website: https://github.com/bggd/mruby-minigame
 protocol: git
 repository: https://github.com/bggd/mruby-minigame.git
+license: MIT

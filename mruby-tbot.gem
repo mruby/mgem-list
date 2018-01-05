@@ -4,3 +4,4 @@ author: Nazarii Sheremet
 website: https://github.com/nsheremet/mruby-tbot
 protocol: git
 repository: https://github.com/nsheremet/mruby-tbot.git
+license: MIT

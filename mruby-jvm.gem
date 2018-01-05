@@ -4,3 +4,4 @@ author: jkutner
 website: https://github.com/jkutner/mruby-jvm
 protocol: git
 repository: https://github.com/jkutner/mruby-jvm.git
+license: MIT

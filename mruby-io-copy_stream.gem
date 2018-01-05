@@ -4,3 +4,4 @@ author: ksss
 website: https://github.com/ksss/mruby-io-copy_stream
 protocol: git
 repository: https://github.com/ksss/mruby-io-copy_stream.git
+license: MIT

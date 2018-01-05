@@ -8,3 +8,4 @@ dependencies:
 - mruby-gobject-introspection
 - mruby-allocate
 - mruby-named-constants
+license: MIT

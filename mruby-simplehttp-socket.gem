@@ -4,3 +4,4 @@ author: Kentaro Yoshida, Internet Initiative Japan Inc.
 website: https://github.com/y-ken/mruby-simplehttp-socket
 protocol: git
 repository: https://github.com/y-ken/mruby-simplehttp-socket.git
+license: MIT

@@ -4,3 +4,4 @@ author: takumakume
 website: https://github.com/takumakume/mruby-getloadavg
 protocol: git
 repository: https://github.com/takumakume/mruby-getloadavg.git
+license: MIT

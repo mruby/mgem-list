@@ -4,3 +4,4 @@ author: mame
 website: https://github.com/mame/mruby-gettimeofday
 protocol: git
 repository: https://github.com/mame/mruby-gettimeofday.git
+license: MIT

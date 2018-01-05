@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/ppibburr/mruby-webkit-1.git
 dependencies:
 - mruby-gtk2
+license: MIT

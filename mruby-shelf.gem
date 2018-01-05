@@ -4,3 +4,4 @@ author: katzer
 website: https://github.com/katzer/mruby-shelf
 protocol: git
 repository: https://github.com/katzer/mruby-shelf.git
+license: MIT

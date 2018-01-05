@@ -4,3 +4,4 @@ author: mattn
 website: https://github.com/mattn/mruby-base64
 protocol: git
 repository: https://github.com/mattn/mruby-base64.git
+license: MIT

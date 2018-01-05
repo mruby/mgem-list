@@ -4,3 +4,4 @@ author: mattn
 website: https://github.com/mattn/mruby-fltk3
 protocol: git
 repository: https://github.com/mattn/mruby-fltk3.git 
+license: MIT

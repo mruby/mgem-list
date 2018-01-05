@@ -4,3 +4,4 @@ author: Hendrik Beskow
 website: https://github.com/Asmod4n/mruby-string-is-utf8
 protocol: git
 repository: https://github.com/Asmod4n/mruby-string-is-utf8.git
+license: Simplified BSD License

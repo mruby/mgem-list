@@ -4,3 +4,4 @@ author: kaihar4
 website: https://github.com/kaihar4/mruby-cidr
 protocol: git
 repository: https://github.com/kaihar4/mruby-cidr.git
+license: MIT

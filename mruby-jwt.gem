@@ -10,3 +10,4 @@ dependencies:
 - mruby-digest
 - mruby-iijson
 - mruby-onig-regexp
+license: MIT

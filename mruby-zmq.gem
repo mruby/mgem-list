@@ -13,3 +13,4 @@ dependencies:
 - mruby-time
 - mruby-print
 - mruby-sprintf
+license: MPL-2.0

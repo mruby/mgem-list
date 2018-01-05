@@ -4,3 +4,4 @@ author: iij
 website: https://github.com/iij/mruby-aws-s3
 protocol: git
 repository: https://github.com/iij/mruby-aws-s3.git 
+license: MIT

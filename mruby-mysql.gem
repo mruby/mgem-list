@@ -4,3 +4,4 @@ author: mattn
 website: https://github.com/mattn/mruby-mysql
 protocol: git
 repository: https://github.com/mattn/mruby-mysql.git
+license: MIT

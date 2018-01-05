@@ -4,3 +4,4 @@ author: Jared Breeden
 website: https://github.com/jbreeden/mruby-glib
 protocol: git
 repository: https://github.com/jbreeden/mruby-glib.git
+license: MIT

@@ -4,3 +4,4 @@ author: Hendrik Beskow
 website: https://github.com/Asmod4n/mruby-simplemsgpack
 protocol: git
 repository: https://github.com/Asmod4n/mruby-simplemsgpack.git
+license: Apache-2

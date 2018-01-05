@@ -7,3 +7,4 @@ repository: https://github.com/mattn/mruby-sinatic.git
 dependencies:
 - mruby-uv
 - mruby-http
+license: MIT

@@ -4,3 +4,4 @@ author: katzer
 website: https://github.com/appPlant/mruby-os
 protocol: git
 repository: https://github.com/appPlant/mruby-os.git
+license: MIT

@@ -4,3 +4,4 @@ author: Hendrik Beskow
 website: https://github.com/Asmod4n/mruby-sysrandom
 protocol: git
 repository: https://github.com/Asmod4n/mruby-sysrandom.git
+license: ISC

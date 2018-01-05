@@ -4,3 +4,4 @@ author: YAMAMOTO Masaya
 website: https://github.com/mruby-esp32/mruby-esp32-i2c
 protocol: git
 repository: https://github.com/mruby-esp32/mruby-esp32-i2c.git
+license: MIT

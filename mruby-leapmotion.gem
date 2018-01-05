@@ -4,3 +4,4 @@ author: crimsonwoods
 website: https://github.com/crimsonwoods/mruby-leapmotion
 protocol: git
 repository: https://github.com/crimsonwoods/mruby-leapmotion.git
+license: MIT

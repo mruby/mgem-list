@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/schmurfy/host-stats.git
 dependencies:
 - mruby-rubyffi-compat
+license: MIT

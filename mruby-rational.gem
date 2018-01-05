@@ -4,3 +4,4 @@ author: Daisuke YAMAGUCHI
 website: https://github.com/dyama/mruby-rational
 protocol: git
 repository: https://github.com/dyama/mruby-rational.git
+license: MIT

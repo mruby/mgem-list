@@ -4,3 +4,4 @@ author: Uchio Kondo
 website: https://github.com/udzura/mruby-etcd
 protocol: git
 repository: https://github.com/udzura/mruby-etcd.git
+license: MIT

@@ -4,3 +4,4 @@ author: Internet Initiative Japan., Inc.
 website: https://github.com/iij/mruby-mtest
 protocol: git
 repository: https://github.com/iij/mruby-mtest.git
+license: MIT

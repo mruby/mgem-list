@@ -7,3 +7,4 @@ repository: https://github.com/matsumotory/mruby-httprequest.git
 dependencies:
 - mruby-simplehttp
 - mruby-http
+license: MIT

@@ -4,3 +4,4 @@ author: MATSUMOTO Ryosuke
 website: https://github.com/matsumotory/mruby-redis
 protocol: git
 repository: https://github.com/matsumotory/mruby-redis.git
+license: Apache-2
