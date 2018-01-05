@@ -1,5 +1,6 @@
 name: mruby-qrcode
 description: Ruby interface to QR Code C Library by Ryusuke SEKIYAMA
+license: MIT
 author: ['sadasant', 'scalone']
 website: https://github.com/scalone/mruby-qrcode
 protocol: git
