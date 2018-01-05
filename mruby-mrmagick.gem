@@ -7,3 +7,4 @@ repository: https://github.com/kjunichi/mruby-mrmagick.git
 dependencies:
 - mruby-array-ext
 - mruby-print
+license: MIT

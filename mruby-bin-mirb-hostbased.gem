@@ -4,3 +4,4 @@ author: kyab
 website: https://github.com/kyab/mruby-bin-mirb-hostbased
 protocol: git
 repository: https://github.com/kyab/mruby-bin-mirb-hostbased.git
+license: MIT

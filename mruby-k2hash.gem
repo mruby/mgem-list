@@ -4,3 +4,4 @@ author: Ryo Okubo
 website: https://github.com/syucream/mruby-k2hash
 protocol: git
 repository: https://github.com/syucream/mruby-k2hash.git
+license: MIT

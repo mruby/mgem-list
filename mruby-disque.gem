@@ -4,3 +4,4 @@ author: MATSUMOTO Ryosuke
 website: https://github.com/matsumotory/mruby-disque
 protocol: git
 repository: https://github.com/matsumotory/mruby-disque.git
+license: MIT

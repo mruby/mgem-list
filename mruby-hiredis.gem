@@ -7,3 +7,4 @@ repository: https://github.com/Asmod4n/mruby-hiredis.git
 dependencies:
 - mruby-errno
 - mruby-redis-ae
+license: Apache-2

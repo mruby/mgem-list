@@ -4,3 +4,4 @@ author: Kenichi Mitsugi
 website: https://github.com/happysiro/mruby-maxminddb
 protocol: git
 repository: https://github.com/happysiro/mruby-maxminddb
+license: MIT

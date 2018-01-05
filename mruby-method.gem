@@ -4,3 +4,4 @@ author: ksss
 website: https://github.com/ksss/mruby-method
 protocol: git
 repository: https://github.com/ksss/mruby-method.git
+license: MIT

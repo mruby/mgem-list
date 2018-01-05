@@ -4,3 +4,4 @@ author: mimaki
 website: https://github.com/mimaki/mruby-tiny-io
 protocol: git
 repository: https://github.com/mimaki/mruby-tiny-io.git
+license: MIT

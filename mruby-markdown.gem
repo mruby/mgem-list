@@ -5,3 +5,4 @@ website: https://github.com/carsonmcdonald/mruby-markdown
 protocol: git
 repository: https://github.com/carsonmcdonald/mruby-markdown.git
 repooptions: --recursive
+license: MIT

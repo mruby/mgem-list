@@ -4,3 +4,4 @@ author: Seiei Miyagi
 website: https://github.com/hanachin/mruby-string-xor
 protocol: git
 repository: https://github.com/hanachin/mruby-string-xor.git
+license: MIT

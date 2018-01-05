@@ -4,3 +4,4 @@ author: harasou
 website: https://github.com/harasou/mruby-resource
 protocol: git
 repository: https://github.com/harasou/mruby-resource.git
+license: MIT

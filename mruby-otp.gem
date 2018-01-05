@@ -4,3 +4,4 @@ author: Emanuele Vicentini
 website: https://github.com/baldowl/mruby-otp
 protocol: git
 repository: https://github.com/baldowl/mruby-otp.git
+license: MIT

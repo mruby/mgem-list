@@ -4,3 +4,4 @@ author: emsk
 website: https://github.com/emsk/mruby-romajify
 protocol: git
 repository: https://github.com/emsk/mruby-romajify.git
+license: MIT

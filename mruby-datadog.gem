@@ -8,3 +8,4 @@ dependencies:
 - mruby-httprequest
 - mruby-json
 - mruby-polarssl
+license: MIT

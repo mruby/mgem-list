@@ -4,3 +4,4 @@ author: cremno
 website: https://github.com/cremno/mruby-libqrng
 protocol: git
 repository: https://github.com/cremno/mruby-libqrng.git
+license: MIT

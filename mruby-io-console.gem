@@ -4,3 +4,4 @@ author: ksss
 website: https://github.com/ksss/mruby-io-console
 protocol: git
 repository: https://github.com/ksss/mruby-io-console.git
+license: MIT

@@ -11,3 +11,4 @@ dependencies:
 - mruby-sleep
 - mruby-http
 - mruby-httprequest
+license: MIT

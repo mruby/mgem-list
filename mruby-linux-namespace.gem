@@ -4,3 +4,4 @@ author: Russel Hunter Yukawa / Uchio Kondo
 website: https://github.com/haconiwa/mruby-linux-namespace
 protocol: git
 repository: https://github.com/haconiwa/mruby-linux-namespace.git
+license: MIT

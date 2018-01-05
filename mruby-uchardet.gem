@@ -4,3 +4,4 @@ author: Takeshi Watanabe
 website: https://github.com/take-cheeze/mruby-uchardet/
 protocol: git
 repository: https://github.com/take-cheeze/mruby-uchardet.git
+license: MPL2

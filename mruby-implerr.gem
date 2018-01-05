@@ -4,3 +4,4 @@ author: Kouichi Nakanishi
 website: https://github.com/keizo042/mruby-implerr
 protocol: git
 repository: https://github.com/keizo042/mruby-implerr.git
+license: MIT

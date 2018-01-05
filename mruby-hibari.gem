@@ -4,3 +4,4 @@ author: Kentaro Kuribayashi
 website: https://github.com/kentaro/mruby-hibari
 protocol: git
 repository: https://github.com/kentaro/mruby-hibari.git
+license: MIT

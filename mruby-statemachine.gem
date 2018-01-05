@@ -4,3 +4,4 @@ author: Hendrik Beskow
 website: https://github.com/ascaridol/mruby-statemachine
 protocol: git
 repository: https://github.com/ascaridol/mruby-statemachine.git
+license: Apache-2

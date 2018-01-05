@@ -4,3 +4,4 @@ author: Seiei Miyagi
 website: https://github.com/hanachin/mruby-pkcs5
 protocol: git
 repository: https://github.com/hanachin/mruby-pkcs5.git
+license: MIT

@@ -4,3 +4,4 @@ author: takumakume
 website: https://github.com/takumakume/mruby-ionice
 protocol: git
 repository: https://github.com/takumakume/mruby-ionice.git
+license: MIT

@@ -4,3 +4,4 @@ author: takumakume
 website: https://github.com/takumakume/mruby-file-access
 protocol: git
 repository: https://github.com/takumakume/mruby-file-access.git
+license: MIT

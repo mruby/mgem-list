@@ -7,3 +7,4 @@ repository: https://github.com/luisbebop/mruby-polarssl.git
 dependencies:
 - mruby-io
 - mruby-mtest
+license: GPL

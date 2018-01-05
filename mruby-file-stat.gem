@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/ksss/mruby-file-stat.git
 dependencies:
 - mruby-time
+license: MIT

@@ -4,3 +4,4 @@ author: iij
 website: https://github.com/iij/mruby-regexp-pcre
 protocol: git
 repository: https://github.com/iij/mruby-regexp-pcre.git
+license: MIT

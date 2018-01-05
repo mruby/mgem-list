@@ -4,3 +4,4 @@ author: iij
 website: https://github.com/iij/mruby-iijson
 protocol: git
 repository: https://github.com/iij/mruby-iijson.git
+license: MIT

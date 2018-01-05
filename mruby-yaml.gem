@@ -4,3 +4,4 @@ author: Andrew Belt
 website: https://github.com/hone/mruby-yaml
 protocol: git
 repository: https://github.com/hone/mruby-yaml.git
+license: MIT

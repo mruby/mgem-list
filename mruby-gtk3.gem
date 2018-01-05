@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/ppibburr/mruby-gtk3.git
 dependencies:
 - mruby-girffi
+license: MIT

@@ -4,3 +4,4 @@ author: naritta
 website: https://github.com/naritta/mruby-strptime
 protocol: git
 repository: https://github.com/naritta/mruby-strptime.git
+license: MIT

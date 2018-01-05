@@ -4,3 +4,4 @@ author: mattn
 website: https://github.com/mattn/mruby-sqlite3
 protocol: git
 repository: https://github.com/mattn/mruby-sqlite3.git
+license: MIT

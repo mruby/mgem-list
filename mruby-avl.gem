@@ -4,3 +4,4 @@ author: randym
 website: https://github.com/randym/mruby-avl
 protocol: git
 repository: https://github.com/randym/mruby-avl.git
+license: MIT

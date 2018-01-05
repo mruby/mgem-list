@@ -7,3 +7,4 @@ repository: https://github.com/matsumotory/mruby-simplehttp.git
 dependencies:
 - mruby-socket
 - mruby-polarssl
+license: MIT

@@ -4,3 +4,4 @@ author: Nazarii Sheremet
 website: https://github.com/nsheremet/mruby-smallhttp
 protocol: git
 repository: https://github.com/nsheremet/mruby-smallhttp.git
+license: MIT

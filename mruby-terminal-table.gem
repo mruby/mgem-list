@@ -4,3 +4,4 @@ author: katzer
 website: https://github.com/appPlant/mruby-terminal-table
 protocol: git
 repository: https://github.com/appPlant/mruby-terminal-table.git
+license: MIT

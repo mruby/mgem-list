@@ -12,3 +12,4 @@ dependencies:
 - mruby-http
 - mruby-simplehttp-socket
 - mruby-httprequest
+license: MIT
