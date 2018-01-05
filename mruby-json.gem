@@ -4,3 +4,4 @@ author: mattn
 website: https://github.com/mattn/mruby-json
 protocol: git
 repository: https://github.com/mattn/mruby-json.git 
+license: MIT
