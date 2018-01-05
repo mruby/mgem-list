@@ -1,0 +1,7 @@
+name: mruby-hmac
+description: Digest::HMAC::hexdigest and Digest::HMAC::digest
+author: scalone
+license: MIT
+website: https://github.com/scalone/mruby-hmac
+protocol: git
+repository: https://github.com/scalone/mruby-hmac.git
