@@ -17,6 +17,7 @@ Every GEM file is based on YAML:
 name: mruby-gem-name
 description: This is the description of this GEM
 author: Author Name
+license: MIT
 website: https://this.is/the/address/to/the/gem
 protocol: git
 repository: https://github.com/the/address/to/the/gem.git
