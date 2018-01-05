@@ -4,3 +4,4 @@ author: mattn
 website: https://github.com/mattn/mruby-fiberpool
 protocol: git
 repository: https://github.com/mattn/mruby-fiberpool.git
+license: MIT

@@ -4,3 +4,4 @@ author: mattn
 website: https://github.com/mattn/mruby-md5
 protocol: git
 repository: https://github.com/mattn/mruby-md5.git
+license: MIT
