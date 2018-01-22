@@ -4,4 +4,4 @@ author: Jun Hiroe
 website: https://github.com/suzukaze/mruby-msgpack
 protocol: git
 repository: https://github.com/suzukaze/mruby-msgpack.git
-license:  Apache2.0]
+license: Apache2.0
