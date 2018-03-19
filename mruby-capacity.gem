@@ -1,0 +1,7 @@
+name: mruby-capacity
+description: mruby capacity interface
+author: pyama86
+website: https://github.com/pyama86/mruby-capacity
+protocol: git
+repository: https://github.com/pyama86/mruby-capacity.git
+license: MIT
