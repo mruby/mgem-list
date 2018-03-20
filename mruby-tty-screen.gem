@@ -1,0 +1,7 @@
+name: mruby-tty-screen
+description: Detects terminal screen size
+author: Piotr Murach, Jeremy Jung
+website: https://github.com/jeremyjung/mruby-tty-screen
+protocol: git
+repository: https://github.com/jeremyjung/mruby-tty-screen.git
+license: MIT
