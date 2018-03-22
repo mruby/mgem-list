@@ -1,0 +1,7 @@
+name: mruby-yeah
+description: Simple SFTP client for mruby
+author: katzer
+website: https://github.com/katzer/mruby-sftp
+protocol: git
+repository: https://github.com/katzer/mruby-sftp.git
+license: MIT
