@@ -3,10 +3,7 @@ description: SSL and cryptography functionality from PolarSSL in your mruby prog
 author: luisbebop
 website: https://github.com/luisbebop/mruby-polarssl
 protocol: git
-# repository: https://github.com/luisbebop/mruby-polarssl.git
-# Workaround until this is merged: https://github.com/luisbebop/mruby-polarssl/pull/13
-repository: https://github.com/mrbgems/mruby-polarssl.git
-branch: 'fix_leaks'
+repository: https://github.com/luisbebop/mruby-polarssl.git
 dependencies:
 - mruby-io
 - mruby-mtest
