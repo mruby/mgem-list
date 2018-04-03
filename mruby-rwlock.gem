@@ -1,0 +1,7 @@
+name: mruby-rwlock
+description: Read/Write Lock
+author: takumakume
+website: https://github.com/takumakume/mruby-rwlock
+protocol: git
+repository: https://github.com/takumakume/mruby-rwlock.git
+license: MIT
