@@ -1,0 +1,7 @@
+name: mruby-knn-detector
+description: Anomaly detector based on K-Nearest Neighbor
+author: tsurubee
+website: https://github.com/tsurubee/mruby-knn-detector
+protocol: git
+repository: https://github.com/tsurubee/mruby-knn-detector.git
+license: MIT
