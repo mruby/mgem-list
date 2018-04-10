@@ -4,3 +4,4 @@ author: Okumura Takahiro
 website: https://github.com/hfm/mruby-publicsuffix
 protocol: git
 repository: https://github.com/hfm/mruby-publicsuffix.git
+license: MIT
