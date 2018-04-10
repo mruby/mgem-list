@@ -1,0 +1,6 @@
+name: mruby-publicsuffix
+description: mruby port of publicsuffix-ruby. PublicSuffix can parse and decompose a domain name into top level domain, domain and subdomains.
+author: Okumura Takahiro
+website: https://github.com/hfm/mruby-publicsuffix
+protocol: git
+repository: https://github.com/hfm/mruby-publicsuffix.git
