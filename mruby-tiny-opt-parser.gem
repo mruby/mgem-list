@@ -1,0 +1,7 @@
+name: mruby-tiny-opt-parser
+description: Command-line option analysis for mruby
+author: katzer
+website: https://github.com/katzer/mruby-tiny-opt-parser
+protocol: git
+repository: https://github.com/katzer/mruby-tiny-opt-parser.git
+license: MIT
