@@ -1,4 +1,4 @@
-name: mruby-irb-mirb-hostbased
+name: mruby-bin-mirb-hostbased
 description: Hostbased mirb for serial connection 
 author: kyab
 website: https://github.com/kyab/mruby-bin-mirb-hostbased
