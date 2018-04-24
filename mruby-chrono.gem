@@ -1,4 +1,4 @@
-name: mruby-chrony
+name: mruby-chrono
 description: Steady and System clocks for mruby
 author: Hendrik Beskow
 website: https://github.com/Asmod4n/mruby-chrono
