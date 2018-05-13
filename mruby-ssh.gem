@@ -1,0 +1,7 @@
+name: mruby-ssh
+description: Simple SSH client for mruby
+author: katzer
+website: https://github.com/katzer/mruby-ssh
+protocol: git
+repository: https://github.com/katzer/mruby-ssh.git
+license: MIT
