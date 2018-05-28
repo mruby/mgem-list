@@ -1,0 +1,7 @@
+name: mruby-file-fnmatch
+description: File.fnmatch()
+author: katzer
+website: https://github.com/appplant/mruby-file-fnmatch
+protocol: git
+repository: https://github.com/appplant/mruby-file-fnmatch.git
+license: MIT
