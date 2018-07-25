@@ -1,4 +1,4 @@
-name: mruby-shelf
+name: mruby-shelf-deflater
 description: Enables compression of http responses
 author: katzer
 website: https://github.com/katzer/mruby-shelf-deflater
