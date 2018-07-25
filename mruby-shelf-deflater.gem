@@ -1,0 +1,7 @@
+name: mruby-shelf
+description: Enables compression of http responses
+author: katzer
+website: https://github.com/katzer/mruby-shelf-deflater
+protocol: git
+repository: https://github.com/katzer/mruby-shelf-deflater.git
+license: MIT
