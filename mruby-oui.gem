@@ -4,3 +4,4 @@ author: Corey Powell
 website: https://github.com/IceDragon200/mruby-oui
 protocol: git
 repository: https://github.com/IceDragon200/mruby-oui
+license: MIT

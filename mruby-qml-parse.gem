@@ -1,0 +1,7 @@
+name: mruby-qml-parse
+description: QML Parser for mruby
+author: fundamental
+website: https://github.com/mruby-zest/mruby-qml-parse
+protocol: git
+repository: https://github.com/mruby-zest/mruby-qml-parse
+license: MIT

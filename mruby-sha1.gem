@@ -4,3 +4,4 @@ author: mattn
 website: https://github.com/mattn/mruby-sha1
 protocol: git
 repository: https://github.com/mattn/mruby-sha1.git
+license: GPL

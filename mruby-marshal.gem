@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/take-cheeze/mruby-marshal.git
 dependencies:
 - mruby-onig-regexp
+license: MIT

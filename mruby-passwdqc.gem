@@ -1,0 +1,7 @@
+name: mruby-passwdqc
+description: A Password quality checker
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-passwdqc
+protocol: git
+repository: https://github.com/Asmod4n/mruby-passwdqc
+license: Apache-2

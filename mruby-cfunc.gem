@@ -3,4 +3,8 @@ description: Interface to C functions based on libffi.
 author: Yuichiro MASUI
 website: https://github.com/mobiruby/mruby-cfunc
 protocol: git
-repository: https://github.com/mobiruby/mruby-cfunc.git
+# workaround until https://github.com/mobiruby/mruby-cfunc/pull/33 is merged
+# repository: https://github.com/mobiruby/mruby-cfunc.git
+repository: https://github.com/mrbgems/mruby-cfunc.git
+branch: mgem
+license: MIT

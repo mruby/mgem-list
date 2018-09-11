@@ -4,3 +4,4 @@ author: FlavourSys Technology GmbH
 website: https://github.com/FlavourSys/mruby-inotify
 protocol: git
 repository: https://github.com/FlavourSys/mruby-inotify.git 
+license: MIT

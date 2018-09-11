@@ -4,3 +4,4 @@ author: Paolo Bosetti, University of Trento
 website: https://github.com/UniTN-Mechatronics/mruby-raspberry
 protocol: git
 repository: https://github.com/UniTN-Mechatronics/mruby-raspberry.git
+license: MIT

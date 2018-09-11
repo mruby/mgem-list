@@ -1,0 +1,7 @@
+name: mruby-miniz
+description: Ruby interface for Miniz v1.15, a zlib-subset to deflate/inflate and zip/unzip without dir support
+author: scalone
+license: MIT
+website: https://github.com/scalone/mruby-miniz
+protocol: git
+repository: https://github.com/scalone/mruby-miniz.git

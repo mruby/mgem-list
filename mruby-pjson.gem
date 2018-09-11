@@ -4,3 +4,4 @@ author: mattn
 website: https://github.com/mattn/mruby-pjson
 protocol: git
 repository: https://github.com/mattn/mruby-pjson.git 
+license: MIT

@@ -4,3 +4,4 @@ author: Matthias Georgi
 website: https://github.com/georgi/mruby-audite
 protocol: git
 repository: https://github.com/georgi/mruby-audite.git 
+license: MIT

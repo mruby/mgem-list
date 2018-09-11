@@ -1,0 +1,7 @@
+name: mruby-augeas
+description: Bindings to augeas
+author: lutter
+website: https://github.com/hercules-team/mruby-augeas
+protocol: git
+repository: https://github.com/hercules-team/mruby-augeas
+license: MIT

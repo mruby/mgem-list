@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/ppibburr/mruby-webkit-3.git
 dependencies:
 - mruby-gtk3
+license: MIT

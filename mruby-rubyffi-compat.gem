@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/schmurfy/mruby-rubyffi-compat.git
 dependencies:
 - mruby-cfunc
+license: MIT

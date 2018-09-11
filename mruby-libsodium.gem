@@ -4,3 +4,4 @@ author: Hendrik Beskow
 website: https://github.com/Asmod4n/mruby-libsodium
 protocol: git
 repository: https://github.com/Asmod4n/mruby-libsodium.git
+license: Apache-2

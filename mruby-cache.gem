@@ -4,3 +4,4 @@ author: charlescui
 website: https://github.com/charlescui/mruby-cache
 protocol: git
 repository: https://github.com/charlescui/mruby-cache.git
+license: MIT

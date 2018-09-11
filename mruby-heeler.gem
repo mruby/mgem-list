@@ -1,0 +1,7 @@
+name: mruby-heeler
+description: Multi-process webserver
+author: Sebastian Katzer
+license: MIT
+website: https://github.com/katzer/mruby-heeler
+protocol: git
+repository: https://github.com/katzer/mruby-heeler.git

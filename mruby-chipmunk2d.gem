@@ -4,3 +4,4 @@ author: Corey Powell
 website: https://github.com/IceDragon200/mruby-chipmunk2d
 protocol: git
 repository: https://github.com/IceDragon200/mruby-chipmunk2d
+license: MIT

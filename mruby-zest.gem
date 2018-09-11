@@ -1,0 +1,7 @@
+name: mruby-zest
+description: Widget classes for the mruby-zest framework
+author: fundamental
+website: https://github.com/mruby-zest/mruby-zest
+protocol: git
+repository: https://github.com/mruby-zest/mruby-zest
+license: mixed MIT and LGPLv2+

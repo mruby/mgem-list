@@ -4,3 +4,4 @@ author: Ray Chason
 website: https://github.com/chasonr/mruby-gmp-bignum
 protocol: git
 repository: https://github.com/chasonr/mruby-gmp-bignum.git
+license: MIT

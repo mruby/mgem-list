@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/iij/mruby-socket.git
 dependencies:
 - mruby-io
+license: MIT

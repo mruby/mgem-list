@@ -1,0 +1,7 @@
+name: mruby-sftp-glob
+description: SFTP::Dir#glob extension for mruby-sftp
+author: katzer
+website: https://github.com/appplant/mruby-sftp-glob
+protocol: git
+repository: https://github.com/appplant/mruby-sftp-glob.git
+license: MIT

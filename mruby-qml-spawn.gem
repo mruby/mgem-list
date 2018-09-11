@@ -1,0 +1,7 @@
+name: mruby-qml-spawn
+description: Optimized ruby flavored qml->pure ruby pseudo-compiler 
+author: fundamental
+website: https://github.com/mruby-zest/mruby-qml-spawn
+protocol: git
+repository: https://github.com/mruby-zest/mruby-qml-spawn
+license: MIT

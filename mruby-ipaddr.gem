@@ -7,3 +7,4 @@ repository: https://github.com/iij/mruby-ipaddr.git
 dependencies:
 - mruby-pack
 - mruby-socket
+license: MIT

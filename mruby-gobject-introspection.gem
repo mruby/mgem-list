@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/ppibburr/mruby-gobject-introspection.git
 dependencies:
 - mruby-rubyffi-compat
+license: MIT

@@ -4,3 +4,4 @@ author: Monami-ya LLC, Japan
 website: https://github.com/monami-ya-mrb/mruby-serialport/
 protocol: git
 repository: https://github.com/monami-ya-mrb/mruby-serialport.git
+license: MIT

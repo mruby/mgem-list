@@ -4,3 +4,4 @@ author: Masamitsu MURASE
 website: https://github.com/masamitsu-murase/mruby-hs-regexp
 protocol: git
 repository: https://github.com/masamitsu-murase/mruby-hs-regexp.git
+license: BSD

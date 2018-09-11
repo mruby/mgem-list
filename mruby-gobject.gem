@@ -6,3 +6,4 @@ protocol: git
 repository: https://github.com/ppibburr/mruby-gobject.git
 dependencies:
 - mruby-girffi
+license: MIT

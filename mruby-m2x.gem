@@ -4,3 +4,4 @@ author: AT&T M2X Team
 website: https://github.com/attm2x/m2x-mruby
 protocol: git
 repository: https://github.com/attm2x/m2x-mruby.git
+license: MIT

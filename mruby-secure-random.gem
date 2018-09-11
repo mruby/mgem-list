@@ -1,0 +1,7 @@
+name: mruby-secure-random
+description: SecureRandom class
+author: monochromegane
+website: https://github.com/monochromegane/mruby-secure-random
+protocol: git
+repository: https://github.com/monochromegane/mruby-secure-random.git
+license: MIT

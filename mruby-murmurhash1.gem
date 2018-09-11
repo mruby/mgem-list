@@ -4,3 +4,4 @@ author: ksss
 website: https://github.com/ksss/mruby-murmurhash1
 protocol: git
 repository: https://github.com/ksss/mruby-murmurhash1.git
+license: MIT

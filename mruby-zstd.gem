@@ -1,0 +1,7 @@
+name: mruby-zstd
+description: mruby bindings for zstd
+author: dearblue
+website: https://github.com/dearblue/mruby-zstd
+protocol: git
+repository: https://github.com/dearblue/mruby-zstd.git
+license: BSD-2-Clause

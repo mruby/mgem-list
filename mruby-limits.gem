@@ -4,3 +4,4 @@ author: ksss
 website: https://github.com/ksss/mruby-limits
 protocol: git
 repository: https://github.com/ksss/mruby-limits.git
+license: MIT

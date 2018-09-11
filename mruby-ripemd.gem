@@ -1,0 +1,7 @@
+name: mruby-ripemd
+description: Ruby interface to C RIPEMD-160 hash-function by Antoon Bosselaers
+author: ['sadasant', 'scalone']
+license: MIT
+website: https://github.com/scalone/mruby-ripemd
+protocol: git
+repository: https://github.com/scalone/mruby-ripemd.git

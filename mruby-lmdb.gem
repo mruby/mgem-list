@@ -4,3 +4,4 @@ author: Hendrik Beskow
 website: https://github.com/Asmod4n/mruby-lmdb
 protocol: git
 repository: https://github.com/Asmod4n/mruby-lmdb.git
+license: Apache-2

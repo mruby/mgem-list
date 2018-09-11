@@ -4,3 +4,4 @@ author: pbosetti
 website: https://github.com/pbosetti/mruby-merb
 protocol: git
 repository: https://github.com/pbosetti/mruby-merb.git
+license: MIT

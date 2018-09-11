@@ -1,0 +1,7 @@
+name: mruby-correlation
+description: Array extended for correlation coefficient
+author: MATSUMOTO Ryosuke
+website: https://github.com/matsumotory/mruby-correlation
+protocol: git
+repository: https://github.com/matsumotory/mruby-correlation.git
+license: MIT
