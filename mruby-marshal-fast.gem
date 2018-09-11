@@ -4,3 +4,4 @@ author: Carlo Prelz
 website: https://github.com/asfluido/mruby-marshal-fast
 protocol: git
 repository: https://github.com/asfluido/mruby-marshal-fast.git
+license: MIT
