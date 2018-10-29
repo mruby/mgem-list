@@ -4,4 +4,4 @@ author: Mav7
 website: https://github.com/Mav7/mruby-ansi-colors
 protocol: git
 repository: https://github.com/Mav7/mruby-ansi-colors.git
-license: GPL-2.0
+license: MIT
