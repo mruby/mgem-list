@@ -1,0 +1,7 @@
+name: mruby-redis-cluster
+description: Client library for Redis Cluster based on matsumotory/mruby-redis
+author: Yuki Kirii
+website: https://github.com/shiftky/mruby-redis-cluster
+protocol: git
+repository: https://github.com/shiftky/mruby-redis-cluster.git
+license: MIT
