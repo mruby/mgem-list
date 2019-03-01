@@ -1,0 +1,7 @@
+name: mruby-gemcut
+description: runtime reconfigurer for mruby gems
+author: dearblue
+website: https://github.com/dearblue/mruby-gemcut
+protocol: git
+repository: https://github.com/dearblue/mruby-gemcut.git
+license: BSD-2-Clause
