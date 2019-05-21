@@ -1,0 +1,7 @@
+name: mruby-c-ext-helpers
+description: Helpers for mruby c extensions
+author: Asmod4n
+website: https://github.com/Asmod4n/mruby-c-ext-helpers
+protocol: git
+repository: https://github.com/Asmod4n/mruby-c-ext-helpers.git
+license: MPL-2
