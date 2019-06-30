@@ -1,0 +1,7 @@
+name: mruby-delegate
+description: delegate implementation for mruby
+author: dearblue
+website: https://github.com/dearblue/mruby-delegate
+protocol: git
+repository: https://github.com/dearblue/mruby-delegate.git
+license: CC0

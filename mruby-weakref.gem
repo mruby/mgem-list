@@ -1,0 +1,7 @@
+name: mruby-weakref
+description: weakref implementation for mruby
+author: dearblue
+website: https://github.com/dearblue/mruby-weakref
+protocol: git
+repository: https://github.com/dearblue/mruby-weakref.git
+license: CC0
