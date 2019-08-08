@@ -1,7 +1,7 @@
 name: mruby-odbc
 description: unixODBC bindings
 author: qtakamitsu
-website: https://github.com/qtkmz/mruby-odbc
+website: https://github.com/tk3/mruby-odbc
 protocol: git
-repository: https://github.com/qtkmz/mruby-odbc.git 
+repository: https://github.com/tk3/mruby-odbc.git
 license: MIT
