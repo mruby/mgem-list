@@ -1,0 +1,7 @@
+name: mruby-marshal-c
+description: Marshal module for mruby written in C-language with full object-link & symbol link support
+author: Lanza Schneider
+license: Public domain
+website: https://github.com/LanzaSchneider/mruby-marshal-c
+protocol: git
+repository: https://github.com/LanzaSchneider/mruby-marshal-c.git
