@@ -23,7 +23,7 @@ protocol: git
 repository: https://github.com/the/address/to/the/gem.git
 ```
 
-## Guidlines
+## Guidelines
 
 When creating a new GEM please consider:
 
