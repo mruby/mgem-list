@@ -1,5 +1,5 @@
 name: mruby-maxminddb
-description: mruby [GeoIP2 MaxMind DB](http://maxmind.github.io/MaxMind-DB/) reader
+description: mruby [GeoIP2 MaxMind DB](https://maxmind.github.io/MaxMind-DB/) reader
 author: Kenichi Mitsugi
 website: https://github.com/happysiro/mruby-maxminddb
 protocol: git
