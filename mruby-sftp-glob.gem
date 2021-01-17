@@ -4,4 +4,6 @@ author: katzer
 website: https://github.com/katzer/mruby-sftp-glob
 protocol: git
 repository: https://github.com/katzer/mruby-sftp-glob.git
+dependencies:
+- mruby-sftp
 license: MIT
