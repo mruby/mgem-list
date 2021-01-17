@@ -1,7 +1,7 @@
 name: mruby-terminal-table
 description: A fast and simple, yet feature rich ASCII table generator
 author: katzer
-website: https://github.com/appPlant/mruby-terminal-table
+website: https://github.com/katzer/mruby-terminal-table
 protocol: git
-repository: https://github.com/appPlant/mruby-terminal-table.git
+repository: https://github.com/katzer/mruby-terminal-table.git
 license: MIT

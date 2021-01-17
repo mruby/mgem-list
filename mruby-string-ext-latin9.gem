@@ -1,7 +1,7 @@
 name: mruby-string-ext-latin9
 description: Conversion from iso-8859-15 (Latin9) to UTF-8
 author: katzer
-website: https://github.com/appPlant/mruby-string-ext-latin9
+website: https://github.com/katzer/mruby-string-ext-latin9
 protocol: git
-repository: https://github.com/appPlant/mruby-string-ext-latin9.git
+repository: https://github.com/katzer/mruby-string-ext-latin9.git
 license: MIT
