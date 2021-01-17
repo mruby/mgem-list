@@ -1,7 +1,7 @@
 name: mruby-os
 description: Determine system and binary capabilities
 author: katzer
-website: https://github.com/appPlant/mruby-os
+website: https://github.com/katzer/mruby-os
 protocol: git
-repository: https://github.com/appPlant/mruby-os.git
+repository: https://github.com/katzer/mruby-os.git
 license: MIT
