@@ -1,5 +1,5 @@
 name: mruby-discount
-description: html generater from markdown using discount
+description: html generator from markdown using discount
 author: MATSUMOTO Ryosuke
 website: https://github.com/matsumotory/mruby-discount
 protocol: git
