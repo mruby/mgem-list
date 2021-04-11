@@ -3,5 +3,5 @@ description: Portable MP3 Player based on libmp123 and portaudio
 author: Matthias Georgi
 website: https://github.com/georgi/mruby-audite
 protocol: git
-repository: https://github.com/georgi/mruby-audite.git 
+repository: https://github.com/georgi/mruby-audite.git
 license: MIT

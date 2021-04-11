@@ -1,5 +1,5 @@
 name: mruby-kmp
-description: KMP searching algorithm in mruby 
+description: KMP searching algorithm in mruby
 author: santazhang
 website: https://github.com/santazhang/mruby-kmp
 protocol: git
