@@ -10,8 +10,19 @@ jobs:
       - uses: actions/checkout@v2
       - name: Check merge conflict
         run: grep "^<<<<<<< HEAD" $(git ls-files | xargs) && exit 1 || true
+  gnuaspell:
+    name: Check Spelling GNU Aspell Markdown
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install
+        run: |
+          sudo apt update
+          sudo apt-get install aspell
+      - name: Run Markdown Spell Check
+        run: bash ./check-spelling.sh || exit 1
   misspell:
-    name: Check Spelling
+    name: Check Spelling Misspell All Files
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
