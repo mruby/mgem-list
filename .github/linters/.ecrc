@@ -1,0 +1,10 @@
+{
+  "verbose": false,
+  "ignore_defaults": false,
+  "disable": {
+    "end_of_line": false,
+    "trim_trailing_whitespace": false,
+    "insert_final_newline": false,
+    "indentation": false
+  }
+}
