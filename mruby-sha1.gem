@@ -1,5 +1,5 @@
 name: mruby-sha1
-description: SHA1 Hash Alghorithm
+description: SHA1 Hash Algorithm
 author: mattn
 website: https://github.com/mattn/mruby-sha1
 protocol: git
