@@ -29,6 +29,6 @@ When creating a new GEM please consider:
 
 * the name should express the functionality of the GEM clearly
 * words should be separated by using dash (-)
-* don't use *under_score* and *PascalCaseas*
+* don't use *under_score* and *CamelCase*
 * prefix should be *mruby-*
 * if it's an executable, prefix should be *mruby-bin-*
