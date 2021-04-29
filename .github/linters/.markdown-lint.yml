@@ -1,2 +1,8 @@
+# https://github.com/DavidAnson/markdownlint#rules--aliases
+# markdownlint -c .github/linters/.markdown-lint.yml .
+
+# MD025 single-title/single-h1 - Multiple top-level headings in the same document
 MD025: false
+
+# MD040 fenced-code-language - Fenced code blocks should have a language specified
 MD040: false
