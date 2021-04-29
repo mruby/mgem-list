@@ -1,7 +1,7 @@
 name: mruby-sha2
-description: SHA2 Hash Algorithm
+description: SHA2 Hash Algorithm (third-party fork)
 author: h2so5
-website: https://github.com/h2so5/mruby-sha2
+website: https://github.com/scalone/mruby-sha2
 protocol: git
-repository: https://github.com/h2so5/mruby-sha2.git
+repository: https://github.com/scalone/mruby-sha2.git
 license: MIT

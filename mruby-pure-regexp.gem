@@ -1,7 +1,7 @@
 name: mruby-pure-regexp
-description: Pure mruby Regexp
+description: Pure mruby Regexp (third-party fork)
 author: h2so5
-website: https://github.com/h2so5/mruby-pure-regexp
+website: https://github.com/WindProphet/mruby-pure-regexp
 protocol: git
-repository: https://github.com/h2so5/mruby-pure-regexp.git
+repository: https://github.com/WindProphet/mruby-pure-regexp.git
 license: MIT

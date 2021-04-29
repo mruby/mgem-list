@@ -1,7 +1,7 @@
 name: mruby-tinyxml2
-description: mruby bindings for TinyXML-2
+description: mruby bindings for TinyXML-2 (third-party fork)
 author: h2so5
-website: https://github.com/h2so5/mruby-tinyxml2
+website: https://github.com/scalone/mruby-tinyxml2
 protocol: git
-repository: https://github.com/h2so5/mruby-tinyxml2.git
+repository: https://github.com/scalone/mruby-tinyxml2.git
 license: MIT
