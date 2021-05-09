@@ -11,7 +11,7 @@ jobs:
       - name: Check merge conflict
         run: grep "^<<<<<<< HEAD" $(git ls-files | xargs) && exit 1 || true
   gnuaspell:
-    name: Check Spelling GNU Aspell Markdown
+    name: Check Spelling GNU Aspell All Markdown Files
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -22,7 +22,7 @@ jobs:
       - name: Run Markdown Spell Check
         run: bash ./check-spelling.sh || exit 1
   misspell:
-    name: Check Spelling Misspell All Files
+    name: Check Spelling Misspell All Files In Commit
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
