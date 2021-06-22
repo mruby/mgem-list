@@ -1,5 +1,5 @@
 name: mruby-aws-sigv4
-description: AWS Signature Version 4 signing library for mruby. mruby port of aws-sigv4 rubygem.
+description: AWS Signature Version 4 signing library for mruby. mruby port of aws-sigv4 RubyGem.
 author: Okumura Takahiro
 website: https://github.com/hfm/mruby-aws-sigv4
 protocol: git
