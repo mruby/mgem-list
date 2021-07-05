@@ -1,8 +1,8 @@
 ---
-
 extends: default
 
 rules:
+  comments: disable
   document-start: disable
   line-length: disable
   truthy: false
