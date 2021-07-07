@@ -1,4 +1,5 @@
 ---
+# https://pre-commit.com/
 default_stages: [commit, push]
 default_language_version:
   # force all unspecified Python hooks to run python3
@@ -53,6 +54,8 @@ repos:
         name: Run markdownlint
         description: Check all Markdown files with markdownlint
         entry: markdownlint -c .github/linters/.markdown-lint.yml .
+        types: [markdown]
+        files: \.(md|mdown|markdown)$
   - repo: https://github.com/adrienverge/yamllint
     rev: v1.26.1
     hooks:
@@ -61,3 +64,4 @@ repos:
         description: Check YAML files with yamllint
         entry: yamllint --strict -c .github/linters/.yaml-lint.yml .
         types: [yaml]
+        files: \.(yml|yaml)$
