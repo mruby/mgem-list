@@ -1,0 +1,7 @@
+name: mruby-posix-regexp
+description: mruby's Regexp class implementation using libc's posix-based regexp
+author: Uchio Kondo
+website: https://github.com/udzura/mruby-posix-regexp
+protocol: git
+repository: https://github.com/udzura/mruby-posix-regexp.git
+license: MIT
