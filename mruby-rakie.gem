@@ -1,0 +1,7 @@
+name: mruby-rakie
+description: An event driven network toolkit with Fiber
+author: Jakit Liang
+website: https://github.com/jakitliang/mruby-rakie
+protocol: git
+repository: https://github.com/jakitliang/mruby-rakie.git
+license: BSD-2-Clause License
