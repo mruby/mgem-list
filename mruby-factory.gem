@@ -5,3 +5,4 @@ license: MIT
 website: https://github.com/okuramasafumi/mruby-factory
 protocol: git
 repository: https://github.com/okuramasafumi/mruby-factory.git
+branch: main
