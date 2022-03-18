@@ -23,6 +23,7 @@ license: MIT
 website: https://this.is/the/address/to/the/gem
 protocol: git
 repository: https://github.com/the/address/to/the/gem.git
+branch: main # Need to set this if default branch is not "master"
 ```
 
 ## Guidelines
