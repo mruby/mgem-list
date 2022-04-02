@@ -15,14 +15,14 @@ create a pull request with your GEM details.
 
 Every GEM file is based on YAML:
 
-```
+```yaml
 name: mruby-gem-name
 description: This is the description of this GEM
 author: Author Name
 license: MIT
-website: https://this.is/the/address/to/the/gem
+website: https://gem.example/the/address/to/the/gem
 protocol: git
-repository: https://github.com/the/address/to/the/gem.git
+repository: https://gem.example/the/address/to/the/gem.git
 branch: main # Need to set this if default branch is not "master"
 ```
 
