@@ -1,0 +1,8 @@
+name: mruby-gosu
+description: mruby wrapper for the Gosu game library
+author: cyberarm
+license: MIT
+website: https://github.com/cyberarm/mruby-gosu
+protocol: git
+repository: https://github.com/cyberarm/mruby-gosu.git
+branch: master
