@@ -1,8 +1,13 @@
+# https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/about-dependabot-version-updates
 # Basic set up
 
 version: 2
 updates:
   # Maintain dependencies for GitHub Actions
+  - package-ecosystem: 'bundler'
+    directory: '/'
+    schedule:
+      interval: 'daily'
   - package-ecosystem: 'github-actions'
     directory: '/'
     schedule:
