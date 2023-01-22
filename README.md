@@ -1,7 +1,5 @@
 # mgem-list
 
-[![Build Status](https://travis-ci.org/mruby/mgem-list.png?branch=master)](https://travis-ci.org/mruby/mgem-list)
-
 A list of all GEMs for mruby to be managed by mgem
 
 # Contribute
