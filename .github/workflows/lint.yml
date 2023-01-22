@@ -3,6 +3,17 @@ name: Lint
 on: [pull_request]
 
 jobs:
+  check-gems:
+    name: Check gem files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2' # Not needed with a .ruby-version file
+          bundler: 'default'
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+      - run: bundle exec .check.rb
   misspell:
     name: Check Spelling Misspell All Files In Commit
     runs-on: ubuntu-latest
