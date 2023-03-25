@@ -1,0 +1,8 @@
+name: mruby-cyberarm_engine
+description: Yet another framework for building games with Gosu
+author: cyberarm
+license: MIT
+website: https://github.com/cyberarm/cyberarm_engine
+protocol: git
+repository: https://github.com/cyberarm/cyberarm_engine.git
+branch: master
