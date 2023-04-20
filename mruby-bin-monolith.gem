@@ -1,0 +1,8 @@
+name: mruby-bin-monolith
+description: Tool to package mruby code in a single standalone executable
+author: Chris Reuter
+license: MIT
+website: https://github.com/suetanvil/mruby-bin-monolith
+protocol: git
+repository: https://github.com/suetanvil/mruby-bin-monolith.git
+branch: main
