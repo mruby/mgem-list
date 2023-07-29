@@ -50,6 +50,15 @@ repos:
       - id: prettier
         name: Run prettier
         description: Format files with prettier
+  - repo: https://github.com/tcort/markdown-link-check
+    rev: v3.11.2
+    hooks:
+      - id: markdown-link-check
+        name: Run markdown-link-check
+        description: Checks hyperlinks in Markdown files
+        args: [-q]
+        types: [markdown]
+        files: \.(md|mdown|markdown)$
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.35.0
     hooks:
