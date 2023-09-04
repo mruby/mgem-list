@@ -7,7 +7,7 @@ jobs:
     name: Check gem files
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2' # Not needed with a .ruby-version file
@@ -18,7 +18,7 @@ jobs:
     name: Run pre-commit # https://pre-commit.com/
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v4 # https://www.python.org/
         with:
           python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
