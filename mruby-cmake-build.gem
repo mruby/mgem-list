@@ -1,0 +1,7 @@
+name: mruby-cmake-build
+description: CMake configuration (CMakeLists.txt) generator for mruby.
+author: Lanza Schneider
+license: MIT License
+website: https://github.com/LanzaSchneider/mruby-cmake-build
+protocol: git
+repository: https://github.com/LanzaSchneider/mruby-cmake-build.git
