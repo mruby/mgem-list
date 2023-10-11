@@ -1,5 +1,5 @@
 name: mruby-crc
-description: Configurable general CRC calcurator for mruby
+description: Configurable general CRC calculator for mruby
 author: dearblue
 website: https://github.com/dearblue/mruby-crc
 protocol: git
