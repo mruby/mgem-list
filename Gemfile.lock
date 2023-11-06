@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    yaml (0.2.1)
+    yaml (0.3.0)
 
 PLATFORMS
   x86_64-darwin-21
