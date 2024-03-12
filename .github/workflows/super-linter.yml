@@ -16,6 +16,7 @@ jobs:
         uses: super-linter/super-linter/slim@v6.3.0
         env:
           VALIDATE_EDITORCONFIG: true
+          VALIDATE_GITHUB_ACTIONS: true
           VALIDATE_GITLEAKS: true
           DEFAULT_BRANCH: master
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
