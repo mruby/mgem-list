@@ -1,5 +1,4 @@
 # https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/about-dependabot-version-updates
-
 version: 2
 updates:
   - package-ecosystem: 'bundler'

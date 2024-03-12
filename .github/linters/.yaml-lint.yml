@@ -1,4 +1,5 @@
 ---
+# https://yamllint.readthedocs.io/en/stable/
 extends: default
 
 rules:
