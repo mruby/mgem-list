@@ -28,6 +28,7 @@ repos:
       - id: forbid-submodules
       - id: mixed-line-ending
       - id: trailing-whitespace
+        args: [--markdown-linebreak-ext=md]
   - repo: https://github.com/Lucas-C/pre-commit-hooks
     rev: v1.5.5
     hooks:
@@ -42,7 +43,7 @@ repos:
       - id: codespell
         name: Run codespell
         description: Check spelling with codespell
-        entry: codespell --ignore-words=codespell.txt
+        args: [--ignore-words=.github/linters/codespell.txt]
   - repo: https://github.com/jumanjihouse/pre-commit-hooks
     rev: 3.0.0
     hooks:
@@ -62,22 +63,22 @@ repos:
         description: Checks hyperlinks in Markdown files
         args: [-q]
         types: [markdown]
-        files: \.(md|mdown|markdown)$
+        files: \.md$
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.39.0
     hooks:
       - id: markdownlint
         name: Run markdownlint
         description: Check all Markdown files with markdownlint
-        entry: markdownlint -c .github/linters/.markdown-lint.yml .
+        args: [--config=.github/linters/.markdown-lint.yml]
         types: [markdown]
-        files: \.(md|mdown|markdown)$
+        files: \.md$
   - repo: https://github.com/adrienverge/yamllint
     rev: v1.35.1
     hooks:
       - id: yamllint
         name: Run yamllint
         description: Check YAML files with yamllint
-        entry: yamllint --strict -c .github/linters/.yaml-lint.yml .
+        args: [--strict, -c=.github/linters/.yaml-lint.yml]
         types: [yaml]
-        files: \.(yml|yaml)$
+        files: \.ya?ml$
