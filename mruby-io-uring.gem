@@ -1,0 +1,8 @@
+name: mruby-io-uring
+description: io-uring from linux for mruby
+author: Hendrik Beskow
+license: Apache-2
+website: https://github.com/Asmod4n/mruby-io_uring
+protocol: git
+repository: https://github.com/Asmod4n/mruby-io_uring.git
+branch: main
