@@ -1,0 +1,8 @@
+name: mruby-libdeflate
+description: libdeflate for mruby
+author: Hendrik Beskow
+license: Apache-2
+website: https://github.com/Asmod4n/mruby-libdeflate
+protocol: git
+repository: https://github.com/Asmod4n/mruby-libdeflate.git
+branch: main # Need to set this if default branch is not "master"
