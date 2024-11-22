@@ -1,0 +1,7 @@
+name: mruby-c-ares
+description: Async DNS requests for mruby as a binding for https://c-ares.org/
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-c-ares
+protocol: git
+repository: https://github.com/Asmod4n/mruby-c-ares.git
+license: MIT
