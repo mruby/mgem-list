@@ -15,7 +15,7 @@ repos:
         name: run check-hooks-apply
         description: check hooks apply to the repository
   - repo: https://github.com/gitleaks/gitleaks
-    rev: v8.24.0
+    rev: v8.24.2
     hooks:
       - id: gitleaks
         name: run gitleaks
@@ -68,7 +68,7 @@ repos:
         name: run rubocop
         description: checks Ruby files with a static code analyzer and formatter
   - repo: https://github.com/tcort/markdown-link-check
-    rev: v3.13.6
+    rev: v3.13.7
     hooks:
       - id: markdown-link-check
         name: run markdown-link-check
@@ -86,7 +86,7 @@ repos:
         types: [markdown]
         files: \.md$
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.35.1
+    rev: v1.37.0
     hooks:
       - id: yamllint
         name: run yamllint
