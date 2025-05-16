@@ -1,0 +1,8 @@
+name: mruby-class-attribute
+description: inheritable class attributes ported from Hanami
+author: Hanami developers (ported by Paweł Świątkowski)
+website: https://github.com/katafrakt/mruby-class-attribute
+protocol: git
+repository: https://github.com/katafrakt/mruby-class-attribute.git
+license: MIT
+branch: main
