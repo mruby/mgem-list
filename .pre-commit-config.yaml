@@ -64,15 +64,6 @@ repos:
         name: run codespell
         description: check spelling with codespell
         args: [--ignore-words=.github/linters/codespell.txt]
-  - repo: https://github.com/jumanjihouse/pre-commit-hooks
-    rev: 3.0.0
-    hooks:
-      - id: reek
-        name: run reek
-        description: checks Ruby files with reek the code smell detector
-      - id: rubocop
-        name: run rubocop
-        description: checks Ruby files with a static code analyzer and formatter
   - repo: https://github.com/tcort/markdown-link-check
     rev: v3.13.7
     hooks:
