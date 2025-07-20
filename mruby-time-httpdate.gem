@@ -5,3 +5,4 @@ website: https://github.com/Asmod4n/mruby-time-httpdate
 protocol: git
 repository: https://github.com/Asmod4n/mruby-time-httpdate.git
 license: MIT
+branch: main
