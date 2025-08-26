@@ -6,3 +6,8 @@ website: https://github.com/Asmod4n/mruby-io_uring
 protocol: git
 repository: https://github.com/Asmod4n/mruby-io_uring.git
 branch: main
+dependencies:
+- mruby-c-ext-helpers
+- mruby-io
+- mruby-socket
+- mruby-errno
