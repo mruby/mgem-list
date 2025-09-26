@@ -1,0 +1,8 @@
+name: mruby-termbox2
+description: Low-level bindings to Termbox2
+author: Paweł Świątkowski
+website: https://github.com/katafrakt/mruby-termbox2
+protocol: git
+repository: https://github.com/katafrakt/mruby-termbox2.git
+license: MIT
+branch: main
