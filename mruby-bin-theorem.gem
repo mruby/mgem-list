@@ -1,8 +1,8 @@
 name: mruby-bin-theorem
 description: A modern test library & runner toolkit for mruby
 author: skinnyjames
-website:https://github.com/skinnyjames/mruby-bin-theorem
+website :https://github.com/skinnyjames/mruby-bin-theorem
 protocol: git
-repository: https://github.com/skinnyjames/mruby-bin-theorem
+repository: https://github.com/skinnyjames/mruby-bin-theorem.git
 license: MIT
 
