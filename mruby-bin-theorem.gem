@@ -1,0 +1,7 @@
+name: mruby-bin-theorem
+description: A modern test library & runner toolkit for mruby
+author: Zero Stars
+website:https://github.com/skinnyjames/mruby-bin-theorem
+protocol: git
+repository: https://github.com/skinnyjames/mruby-bin-theorem
+license: MIT
