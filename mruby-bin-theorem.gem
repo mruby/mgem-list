@@ -6,4 +6,3 @@ protocol: git
 repository: https://github.com/skinnyjames/mruby-bin-theorem.git
 license: MIT
 branch: main
-
