@@ -1,0 +1,8 @@
+name: mruby-uriparser
+description: URI parser for mruby.
+author: gemmaro
+website: https://github.com/gemmaro/mruby-uriparser
+protocol: git
+repository: https://github.com/gemmaro/mruby-uriparser
+license: GPL-3.0-or-later
+branch: main
