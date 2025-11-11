@@ -1,0 +1,8 @@
+name: mruby-bin-barista
+description: A build tool to execute a dependency graph of tasks
+author: skinnyjames
+website: https://github.com/skinnyjames/mruby-bin-barista
+protocol: git
+repository: https://github.com/skinnyjames/mruby-bin-barista.git
+license: MIT
+branch: main
