@@ -1,0 +1,8 @@
+name: mruby-bin-barista
+description: A cross-platform build tool for executing a DAG of tasks
+author: skinnyjames
+license: MIT
+website: https://github.com/skinnyjames/mruby-bin-barista
+protocol: git
+repository: https://github.com/skinnyjames/mruby-bin-barista.git
+branch: main
