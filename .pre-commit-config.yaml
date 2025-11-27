@@ -15,13 +15,13 @@ repos:
         name: run check-hooks-apply
         description: check hooks apply to the repository
   - repo: https://github.com/gitleaks/gitleaks
-    rev: v8.28.0
+    rev: v8.30.0
     hooks:
       - id: gitleaks
         name: run gitleaks
         description: detect hardcoded secrets with gitleaks
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v5.0.0
+    rev: v6.0.0
     hooks:
       - id: check-added-large-files
       - id: check-case-conflict
@@ -52,7 +52,7 @@ repos:
         args: [--whitespaces-count, '2']
         exclude: ^Makefile$
   - repo: https://github.com/rhysd/actionlint
-    rev: v1.7.7
+    rev: v1.7.9
     hooks:
       - id: actionlint
         name: run actionlint
@@ -65,7 +65,7 @@ repos:
         description: check spelling with codespell
         args: [--ignore-words=.github/linters/codespell.txt]
   - repo: https://github.com/tcort/markdown-link-check
-    rev: v3.13.7
+    rev: v3.14.2
     hooks:
       - id: markdown-link-check
         name: run markdown-link-check
@@ -74,7 +74,7 @@ repos:
         types: [markdown]
         files: \.md$
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.45.0
+    rev: v0.46.0
     hooks:
       - id: markdownlint
         name: run markdownlint
@@ -83,7 +83,7 @@ repos:
         types: [markdown]
         files: \.md$
   - repo: https://github.com/rubocop/rubocop
-    rev: v1.79.1
+    rev: v1.81.7
     hooks:
       - id: rubocop
         name: run rubocop
