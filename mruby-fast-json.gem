@@ -1,0 +1,11 @@
+name: mruby-fast-json
+description: JSON Parsing and dumping for mruby, fast
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-fast-json
+protocol: git
+repository: https://github.com/Asmod4n/mruby-fast-json.git
+dependencies:
+- mruby-bigint
+- mruby-chrono
+- mruby-c-ext-helpers
+license: Apache-2
