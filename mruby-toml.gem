@@ -1,0 +1,14 @@
+name: mruby-toml
+description: a TOML mgem for mruby
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-toml
+protocol: git
+repository: https://github.com/Asmod4n/mruby-toml.git
+branch: main
+dependencies:
+  mruby-time
+  mruby-c-ext-helpers
+  mruby-string-ext
+  mruby-sprintf
+  mruby-errno
+license: Apache-2
