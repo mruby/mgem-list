@@ -4,6 +4,7 @@ author: Hendrik Beskow
 website: https://github.com/Asmod4n/mruby-fast-json
 protocol: git
 repository: https://github.com/Asmod4n/mruby-fast-json.git
+branch: main
 dependencies:
 - mruby-bigint
 - mruby-chrono
