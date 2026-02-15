@@ -6,9 +6,9 @@ protocol: git
 repository: https://github.com/Asmod4n/mruby-toml.git
 branch: main
 dependencies:
- - mruby-time
- - mruby-c-ext-helpers
- - mruby-string-ext
- - mruby-sprintf
- - mruby-errno
+- mruby-time
+- mruby-c-ext-helpers
+- mruby-string-ext
+- mruby-sprintf
+- mruby-errno
 license: Apache-2.0
