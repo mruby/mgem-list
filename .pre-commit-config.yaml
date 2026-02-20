@@ -41,7 +41,7 @@ repos:
       - id: trailing-whitespace
         args: [--markdown-linebreak-ext=md]
   - repo: https://github.com/Lucas-C/pre-commit-hooks
-    rev: v1.5.5
+    rev: v1.5.6
     hooks:
       - id: forbid-tabs
         name: run forbid-tabs
@@ -53,7 +53,7 @@ repos:
         args: [--whitespaces-count, '2']
         exclude: ^Makefile$
   - repo: https://github.com/rhysd/actionlint
-    rev: v1.7.9
+    rev: v1.7.11
     hooks:
       - id: actionlint
         name: run actionlint
@@ -75,7 +75,7 @@ repos:
         types: [markdown]
         files: \.md$
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.46.0
+    rev: v0.47.0
     hooks:
       - id: markdownlint
         name: run markdownlint
@@ -84,7 +84,7 @@ repos:
         types: [markdown]
         files: \.md$
   - repo: https://github.com/rubocop/rubocop
-    rev: v1.81.7
+    rev: v1.84.2
     hooks:
       - id: rubocop
         name: run rubocop
@@ -92,7 +92,7 @@ repos:
         types: [ruby]
         args: [--config=.github/linters/.rubocop.yml]
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.37.1
+    rev: v1.38.0
     hooks:
       - id: yamllint
         name: run yamllint
