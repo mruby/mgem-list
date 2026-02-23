@@ -1,0 +1,8 @@
+name: mruby-cpuusage
+description: X Platform CPU usage stats for mruby
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-cpuusage
+protocol: git
+repository: https://github.com/Asmod4n/mruby-cpuusage.git
+branch: main
+license: Apache-2.0
