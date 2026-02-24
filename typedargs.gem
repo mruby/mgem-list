@@ -1,0 +1,8 @@
+name: typedargs
+description: A tiny operator‑typed CLI language for structured data.
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/typedargs
+protocol: git
+repository: https://github.com/Asmod4n/typedargs.git
+branch: main
+license: Apache-2.0
