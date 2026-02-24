@@ -31,5 +31,7 @@ When creating a new GEM please consider:
 - the name should express the functionality of the GEM clearly
 - words should be separated by using dash (-)
 - don't use `under_score` and `CamelCase`
-- prefix should be `mruby-`
+- prefix should be `mruby-` for mruby specific gems
+- for gems compatible with both mruby and Rubygems (`dual-compatible gems`),
+  no prefix is needed
 - if it's an executable, prefix should be _mruby-bin-_
