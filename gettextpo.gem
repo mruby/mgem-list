@@ -1,0 +1,8 @@
+name: gettextpo
+description: GNU gettext PO parser library with libgettextpo.
+author: gemmaro
+website: https://git.disroot.org/gemmaro/ruby-gettextpo
+protocol: git
+repository: https://git.disroot.org/gemmaro/ruby-gettextpo.git
+license: GPL-3.0-or-later
+branch: main
