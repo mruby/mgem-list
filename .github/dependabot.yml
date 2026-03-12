@@ -5,11 +5,23 @@ updates:
     directory: '/'
     schedule:
       interval: 'daily'
+    groups:
+      github-dependencies:
+        patterns:
+          - '*'
   - package-ecosystem: 'github-actions'
     directory: '/'
     schedule:
       interval: 'daily'
+    groups:
+      github-dependencies:
+        patterns:
+          - '*'
   - package-ecosystem: 'pre-commit'
     directory: '/'
     schedule:
       interval: 'daily'
+    groups:
+      github-dependencies:
+        patterns:
+          - '*'
