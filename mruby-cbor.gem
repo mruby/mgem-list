@@ -1,0 +1,8 @@
+name: mruby-cbor
+description: CBOR (RFC 8949) Implementation in mruby.
+author: Hendrik Beskow
+website: https://github.com/Asmod4n/mruby-cbor
+protocol: git
+repository: https://github.com/Asmod4n/mruby-cbor.git
+branch: main
+license: Apache-2.0
