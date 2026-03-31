@@ -9,6 +9,8 @@ updates:
       bundler-dependencies:
         patterns:
           - '*'
+    cooldown:
+      default-days: 7
   - package-ecosystem: 'github-actions'
     directory: '/'
     schedule:
@@ -17,6 +19,8 @@ updates:
       github-actions-dependencies:
         patterns:
           - '*'
+    cooldown:
+      default-days: 7
   - package-ecosystem: 'pre-commit'
     directory: '/'
     schedule:
@@ -25,3 +29,5 @@ updates:
       pre-commit-hooks:
         patterns:
           - '*'
+    cooldown:
+      default-days: 7
