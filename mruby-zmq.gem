@@ -6,11 +6,13 @@ protocol: git
 repository: https://github.com/zeromq/mruby-zmq.git
 dependencies:
 - mruby-errno
-- mruby-simplemsgpack
 - mruby-objectspace
 - mruby-pack
 - mruby-env
 - mruby-time
-- mruby-print
 - mruby-sprintf
+- mruby-class-ext
+- mruby-metaprog
+- mruby-string-ext
+- mruby-c-ext-helpers
 license: MPL-2.0
