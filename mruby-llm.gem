@@ -1,0 +1,8 @@
+name: mruby-llm
+description: mruby's most capable AI runtime
+author: 0x1eef
+website: https://llmrb.github.io/mruby-llm
+protocol: git
+repository: https://github.com/llmrb/mruby-llm.git
+branch: main
+license: 0BSD
