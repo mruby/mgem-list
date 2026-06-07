@@ -1,0 +1,8 @@
+name: mruby-kernel-process
+description: Kernel::Process is a bridge between mruby and FreeBSD's process table
+author: 0x1eef
+website: https://github.com/0x1eef/mruby-kernel-process
+protocol: git
+repository: https://github.com/0x1eef/mruby-kernel-process.git
+branch: main
+license: 0BSD
