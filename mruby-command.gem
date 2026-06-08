@@ -1,0 +1,8 @@
+name: mruby-command
+description: Go-inspired, non-blocking commands for mruby
+author: 0x1eef
+website: https://github.com/0x1eef/mruby-command
+protocol: git
+repository: https://github.com/0x1eef/mruby-command.git
+branch: main
+license: 0BSD
