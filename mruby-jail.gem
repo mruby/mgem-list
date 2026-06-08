@@ -1,0 +1,8 @@
+name: mruby-jail
+description: Enumerate, modify, and create FreeBSD jails with mruby and libjail(3)
+author: 0x1eef
+website: https://github.com/0x1eef/mruby-jail
+protocol: git
+repository: https://github.com/0x1eef/mruby-jail.git
+branch: main
+license: 0BSD
