@@ -1,0 +1,8 @@
+name: mruby-graphviz
+description: Graphviz binding for mruby to render DOT language graph diagram
+author: gemmaro
+website: https://codeberg.org/gemmaro/mruby-graphviz
+protocol: git
+repository: https://codeberg.org/gemmaro/mruby-graphviz.git
+license: GPL-3.0-or-later
+branch: main
