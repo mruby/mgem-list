@@ -1,0 +1,8 @@
+name: mruby-chan
+description: An easy-to-use, nonblocking IPC library for mruby
+author: 0x1eef
+website: https://github.com/0x1eef/mruby-chan
+protocol: git
+repository: https://github.com/0x1eef/mruby-chan.git
+branch: main
+license: 0BSD
