@@ -29,11 +29,10 @@ end
 Dir.glob("#{File.dirname __FILE__}/*.gem") do |f|
   print "checking #{f}\n"
   tree = YAML.parse_file(f).transform
-  unless tree["name"] && tree["description"] && tree["author"] && tree["website"] && tree["repository"]
-    errinfo.push "#{f}: invalid YAML"
+  %w[name description author website repository protocol license].each do |key|
+    errinfo.push "#{f}: no #{key}" unless tree[key]
   end
   errinfo.push "#{f}: invalid protocol" unless ["git"].include? tree["protocol"] # TODO
-  errinfo.push "#{f}: no license" unless tree["license"]
 
   tree["dependencies"].to_a.each do |x|
     errinfo.push "#{f}: invalid dependencies" unless x.is_a?(String)
