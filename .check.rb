@@ -2,6 +2,29 @@
 
 require "yaml"
 
+# please add or remove files on the top dir for management if necessary.
+# note that files in subdirectories are not included in the scan.
+PROJECT_FILES = %w[
+  .check.rb
+  .editorconfig
+  .gitattributes
+  .gitignore
+  .pre-commit-config.yaml
+  .travis.yml
+  CONTRIBUTING.md
+  Gemfile
+  Gemfile.lock
+  Makefile
+  Rakefile
+  README.md
+].freeze
+
+$PROGRAM_NAME = File.basename($PROGRAM_NAME)
+
+def run_and_split_nul(cmd)
+  IO.popen(cmd, "rb") { |pipe| pipe.read.split("\0") }
+end
+
 errinfo = Object.new
 class << errinfo
   def push(mesg)
@@ -26,8 +49,30 @@ class << errinfo
   end
 end
 
-Dir.glob("#{File.dirname __FILE__}/*.gem") do |f|
+Dir.chdir(__dir__)
+
+entries = run_and_split_nul(%w[git ls-files -z :^*/*])
+
+print "checking project management files\n"
+unless (PROJECT_FILES - entries).empty?
+  errinfo.push <<~MESG
+    missing files: #{(PROJECT_FILES - entries).join(" ")}
+    > if you removed project management files, edit PROJECT_FILES in #{$PROGRAM_NAME} file.
+  MESG
+end
+
+(entries - PROJECT_FILES).each do |f|
   print "checking #{f}\n"
+
+  unless f.match?(/\.gem$/)
+    errinfo.push <<~MESG
+      #{f}: not a ".gem" file
+      > if you added files for mruby gem (mgem), the file extension should be changed to ".gem".
+      > if you added files for project management, add into PROJECT_FILES of #{$PROGRAM_NAME} file.
+    MESG
+    next
+  end
+
   tree = YAML.parse_file(f).transform
   %w[name description author website repository protocol license].each do |key|
     errinfo.push "#{f}: no #{key}" unless tree[key]
