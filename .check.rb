@@ -2,18 +2,49 @@
 
 require "yaml"
 
+errinfo = Object.new
+class << errinfo
+  def push(mesg)
+    @errors ||= []
+    @errors << mesg.to_s.sub(/\n+\z/, "")
+  end
+
+  def empty?
+    !@errors || @errors.empty?
+  end
+
+  def size
+    @errors&.size || 0
+  end
+
+  def output
+    warn <<~ERR
+
+      #{@errors&.join("\n")}
+      #{size} error(s) generated.
+    ERR
+  end
+end
+
 Dir.glob("#{File.dirname __FILE__}/*.gem") do |f|
   print "checking #{f}\n"
   tree = YAML.parse_file(f).transform
   unless tree["name"] && tree["description"] && tree["author"] && tree["website"] && tree["repository"]
-    raise "invalid YAML"
+    errinfo.push "#{f}: invalid YAML"
   end
-  raise "invalid protocol" unless ["git"].include? tree["protocol"] # TODO
-  raise "no license" unless tree["license"]
+  errinfo.push "#{f}: invalid protocol" unless ["git"].include? tree["protocol"] # TODO
+  errinfo.push "#{f}: no license" unless tree["license"]
 
   tree["dependencies"].to_a.each do |x|
-    raise "invalid dependencies" unless x.is_a?(String)
+    errinfo.push "#{f}: invalid dependencies" unless x.is_a?(String)
   end
+rescue StandardError => e
+  errinfo.push e
+end
+
+unless errinfo.empty?
+  errinfo.output
+  exit 1
 end
 
 print "gem files check OK\n"
