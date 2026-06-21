@@ -95,12 +95,18 @@ Dir.chdir(__dir__)
 
 banner = <<~BANNER
   Usage: #{$PROGRAM_NAME} [options]
+         #{$PROGRAM_NAME} [options] --gitdiff base-ref [head-ref]
 BANNER
 
+gitdiff = false
 gitrepo = false
 interval = 1.2
 OptionParser.new(banner, 24, "") do |o|
   o.separator ""
+
+  o.on "--gitdiff", "Verify only the files with changes between two Git refs" do
+    gitdiff = true
+  end
 
   o.on "--gitrepo", "Verify a Git repository and a specified branch" do
     gitrepo = true
@@ -115,6 +121,22 @@ end
 
 entries = run_and_split_nul(%w[git ls-files -z :^*/*])
 
+if gitdiff
+  case ARGV.size
+  when 1, 2
+    # do nothing
+  else
+    warn banner
+    exit 1
+  end
+  cmd = %w[git diff -z --name-only --diff-filter=ACMR]
+  cmd.concat ARGV
+  cmd.concat %w[-- :^*/*]
+  gemfiles = run_and_split_nul(cmd)
+else
+  gemfiles = entries
+end
+
 puts "checking project management files"
 unless (PROJECT_FILES - entries).empty?
   errinfo.push <<~MESG
@@ -123,7 +145,7 @@ unless (PROJECT_FILES - entries).empty?
   MESG
 end
 
-(entries - PROJECT_FILES).each_with_index do |f, i|
+(gemfiles - PROJECT_FILES).each_with_index do |f, i|
   puts "checking #{f}"
 
   unless f.match?(/\.gem$/)
