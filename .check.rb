@@ -53,7 +53,7 @@ Dir.chdir(__dir__)
 
 entries = run_and_split_nul(%w[git ls-files -z :^*/*])
 
-print "checking project management files\n"
+puts "checking project management files"
 unless (PROJECT_FILES - entries).empty?
   errinfo.push <<~MESG
     missing files: #{(PROJECT_FILES - entries).join(" ")}
@@ -62,7 +62,7 @@ unless (PROJECT_FILES - entries).empty?
 end
 
 (entries - PROJECT_FILES).each do |f|
-  print "checking #{f}\n"
+  puts "checking #{f}"
 
   unless f.match?(/\.gem$/)
     errinfo.push <<~MESG
@@ -73,7 +73,7 @@ end
     next
   end
 
-  tree = YAML.parse_file(f).transform
+  tree = YAML.load_file(f)
   %w[name description author website repository protocol license].each do |key|
     errinfo.push "#{f}: no #{key}" unless tree[key]
   end
@@ -91,4 +91,4 @@ unless errinfo.empty?
   exit 1
 end
 
-print "gem files check OK\n"
+puts "gem files check OK"
