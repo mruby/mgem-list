@@ -21,6 +21,7 @@ jobs:
         uses: super-linter/super-linter/slim@4ce20838b8ab83717e78138c5b3a1407148e0918 # v8.7.0
         env:
           VALIDATE_EDITORCONFIG: true
+          EDITORCONFIG_FILE_NAME: ${{ github.workspace }}/.github/linters/editorconfig-checker.json
           VALIDATE_GITHUB_ACTIONS: true
           VALIDATE_GITLEAKS: true
           DEFAULT_BRANCH: master
