@@ -1,0 +1,8 @@
+name: mruby-gpu-narray
+description: Numo-like N-dimensional array computed on the GPU via Vulkan Compute
+author: Yuji Teshima
+website: https://github.com/yujiteshima/mruby-gpu-narray
+protocol: git
+repository: https://github.com/yujiteshima/mruby-gpu-narray.git
+branch: main
+license: MIT
