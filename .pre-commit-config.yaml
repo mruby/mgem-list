@@ -84,7 +84,7 @@ repos:
         types: [markdown]
         files: \.md$
   - repo: https://github.com/rubocop/rubocop
-    rev: v1.88.1
+    rev: v1.88.2
     hooks:
       - id: rubocop
         name: run rubocop
