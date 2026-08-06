@@ -1,0 +1,11 @@
+{
+  "Verbose": false,
+  "IgnoreDefaults": false,
+  "Disable": {
+    "EndOfLine": false,
+    "TrimTrailingWhitespace": false,
+    "InsertFinalNewline": false,
+    "IndentSize": true,
+    "Indentation": false
+  }
+}
