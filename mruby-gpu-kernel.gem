@@ -1,0 +1,10 @@
+name: mruby-gpu-kernel
+description: Trace a Ruby block into a Vulkan compute shader for mruby-gpu-narray
+author: Yuji Teshima
+website: https://github.com/yujiteshima/mruby-gpu-kernel
+protocol: git
+repository: https://github.com/yujiteshima/mruby-gpu-kernel.git
+branch: main
+dependencies:
+  - mruby-gpu-narray
+license: MIT
