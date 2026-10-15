@@ -15,13 +15,13 @@ repos:
         name: run check-hooks-apply
         description: check hooks apply to the repository
   - repo: https://github.com/gitleaks/gitleaks
-    rev: v8.30.1
+    rev: 83d9cd684c87d95d656c1458ef04895a7f1cbd8e  # frozen: v8.30.1
     hooks:
       - id: gitleaks
         name: run gitleaks
         description: detect hardcoded secrets with gitleaks
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v6.0.0
+    rev: 3e8a8703264a2f4a69428a0aa4dcb512790b2c8c  # frozen: v6.0.0
     hooks:
       - id: check-added-large-files
       - id: check-case-conflict
@@ -41,7 +41,7 @@ repos:
       - id: trailing-whitespace
         args: [--markdown-linebreak-ext=md]
   - repo: https://github.com/Lucas-C/pre-commit-hooks
-    rev: v1.5.6
+    rev: ad1b27d73581aa16cca06fc4a0761fc563ffe8e8  # frozen: v1.5.6
     hooks:
       - id: forbid-tabs
         name: run forbid-tabs
@@ -53,20 +53,20 @@ repos:
         args: [--whitespaces-count, '2']
         exclude: ^Makefile$
   - repo: https://github.com/rhysd/actionlint
-    rev: v1.7.12
+    rev: 914e7df21a07ef503a81201c76d2b11c789d3fca  # frozen: v1.7.12
     hooks:
       - id: actionlint
         name: run actionlint
         description: lint GitHub Actions workflow files
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.4.3
+    rev: 57b21406f092110c18776e39b0bda50d37c945c8  # frozen: v2.4.3
     hooks:
       - id: codespell
         name: run codespell
         description: check spelling with codespell
         args: [--ignore-words=.github/linters/codespell.txt]
   - repo: https://github.com/tcort/markdown-link-check
-    rev: v3.15.0
+    rev: 275c27c5035a5b4a656fe0e21a4c1403c118c767  # frozen: v3.15.0
     hooks:
       - id: markdown-link-check
         name: run markdown-link-check
@@ -75,7 +75,7 @@ repos:
         types: [markdown]
         files: \.md$
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.49.1
+    rev: 5b5dddc4fb0f83c3ea1fc5616fa63e115dce83e0  # frozen: v0.49.1
     hooks:
       - id: markdownlint
         name: run markdownlint
@@ -84,7 +84,7 @@ repos:
         types: [markdown]
         files: \.md$
   - repo: https://github.com/rubocop/rubocop
-    rev: v1.91.0
+    rev: 4172ce57861498492770675a904a6404324b326f  # frozen: v1.92.0
     hooks:
       - id: rubocop
         name: run rubocop
@@ -92,7 +92,7 @@ repos:
         types: [ruby]
         args: [--config=.github/linters/.rubocop.yml]
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.38.0
+    rev: cba56bcde1fdd01c1deb3f945e69764c291a6530  # frozen: v1.38.0
     hooks:
       - id: yamllint
         name: run yamllint
