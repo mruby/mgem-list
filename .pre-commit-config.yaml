@@ -84,7 +84,7 @@ repos:
         types: [markdown]
         files: \.md$
   - repo: https://github.com/rubocop/rubocop
-    rev: 4172ce57861498492770675a904a6404324b326f  # frozen: v1.92.0
+    rev: aa228eb03094d66aca26664839ca14b10d76f702  # frozen: v1.92.1
     hooks:
       - id: rubocop
         name: run rubocop
