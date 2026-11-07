@@ -1,0 +1,7 @@
+name: mruby-stateful
+description: A state machine for mruby.
+author: thoran
+website: https://github.com/thoran/stateful
+protocol: git
+repository: https://github.com/thoran/stateful.git
+license: MIT
