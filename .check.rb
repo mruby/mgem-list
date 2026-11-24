@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+require "optparse"
 require "yaml"
 
 # please add or remove files on the top dir for management if necessary.
@@ -23,6 +24,12 @@ $PROGRAM_NAME = File.basename($PROGRAM_NAME)
 
 def run_and_split_nul(cmd)
   IO.popen(cmd, "rb") { |pipe| pipe.read.split("\0") }
+end
+
+class Array # rubocop:disable Style/Documentation
+  def extract_git_branches
+    grep(%r{^refs/heads/}).map { |e| e.delete_prefix("refs/heads/") }
+  end
 end
 
 errinfo = Object.new
@@ -49,9 +56,86 @@ class << errinfo
   end
 end
 
+def git_get_remote_refs(repository)
+  env = { "GIT_TERMINAL_PROMPT" => "0" }
+  cmd = %W[git ls-remote -btq --refs #{repository}]
+
+  IO.popen(env, cmd, "r", err: File::NULL) do |r|
+    refs = r.read.split(/[\n\t]/).select.with_index { |_, i| i.odd? }
+    return refs unless refs.empty?
+  end
+
+  nil
+end
+
+def check_git_repository(gemname, tree, errinfo) # rubocop:disable Metrics/MethodLength
+  repo = tree["repository"].to_s
+  branch = tree["branch"] || "master"
+  refs = git_get_remote_refs(repo) unless repo.empty?
+
+  if refs.nil?
+    errinfo.push <<~INFO
+      #{gemname}: unable to access the repository or locate a valid branch name.
+    INFO
+  elsif refs.include?("refs/heads/#{branch}")
+    # OK
+  elsif refs.include?("refs/tags/#{branch}")
+    errinfo.push <<~INFO
+      #{gemname}: instead of branches, the tag "#{branch}" is used.
+    INFO
+  else
+    errinfo.push <<~INFO
+      #{gemname}: branch "#{branch}" is missing.
+      > candidates: #{refs.extract_git_branches.join(" ")}
+    INFO
+  end
+end
+
 Dir.chdir(__dir__)
 
+banner = <<~BANNER
+  Usage: #{$PROGRAM_NAME} [options]
+         #{$PROGRAM_NAME} [options] --gitdiff base-ref [head-ref]
+BANNER
+
+gitdiff = false
+gitrepo = false
+interval = 1.2
+OptionParser.new(banner, 24, "") do |o|
+  o.separator ""
+
+  o.on "--gitdiff", "Verify only the files with changes between two Git refs" do
+    gitdiff = true
+  end
+
+  o.on "--gitrepo", "Verify a Git repository and a specified branch" do
+    gitrepo = true
+  end
+
+  o.on "--interval seconds", "Specify the access interval with `--gitrepo` (default: #{interval})", Float do |n|
+    interval = n
+  end
+
+  o.order!
+end
+
 entries = run_and_split_nul(%w[git ls-files -z :^*/*])
+
+if gitdiff
+  case ARGV.size
+  when 1, 2
+    # do nothing
+  else
+    warn banner
+    exit 1
+  end
+  cmd = %w[git diff -z --name-only --diff-filter=ACMR]
+  cmd.concat ARGV
+  cmd.concat %w[-- :^*/*]
+  gemfiles = run_and_split_nul(cmd)
+else
+  gemfiles = entries
+end
 
 puts "checking project management files"
 unless (PROJECT_FILES - entries).empty?
@@ -61,7 +145,7 @@ unless (PROJECT_FILES - entries).empty?
   MESG
 end
 
-(entries - PROJECT_FILES).each do |f|
+(gemfiles - PROJECT_FILES).each_with_index do |f, i|
   puts "checking #{f}"
 
   unless f.match?(/\.gem$/)
@@ -81,6 +165,11 @@ end
 
   tree["dependencies"].to_a.each do |x|
     errinfo.push "#{f}: invalid dependencies" unless x.is_a?(String)
+  end
+
+  if gitrepo
+    sleep interval if i.positive?
+    check_git_repository(f, tree, errinfo)
   end
 rescue StandardError => e
   errinfo.push e
